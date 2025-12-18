@@ -1,0 +1,3815 @@
+#EXTM3U
+#EXTINF:-1 ,====== 央视,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,抖音CCTV13
+http://156.238.248.80/2099.php?id=1
+#EXTINF:-1 ,抖音CCTV13
+http://156.238.248.80/2099.php?id=2
+#EXTINF:-1 ,CCTV-1 综合
+http://156.238.248.80/2099.php?id=3
+#EXTINF:-1 ,CCTV-2 财经
+http://156.238.248.80/2099.php?id=4
+#EXTINF:-1 ,CCTV-3 综艺
+http://156.238.248.80/2099.php?id=5
+#EXTINF:-1 ,CCTV-4 中文国际
+http://156.238.248.80/2099.php?id=6
+#EXTINF:-1 ,CCTV-4 中文国际 欧洲
+http://156.238.248.80/2099.php?id=7
+#EXTINF:-1 ,CCTV-4 中文国际 美洲
+http://156.238.248.80/2099.php?id=8
+#EXTINF:-1 ,CCTV-5 体育
+http://156.238.248.80/2099.php?id=9
+#EXTINF:-1 ,CCTV-5+ 体育赛事
+http://156.238.248.80/2099.php?id=10
+#EXTINF:-1 ,CCTV-6 电影
+http://156.238.248.80/2099.php?id=11
+#EXTINF:-1 ,CCTV-7 国防军事
+http://156.238.248.80/2099.php?id=12
+#EXTINF:-1 ,CCTV-8 电视剧
+http://156.238.248.80/2099.php?id=13
+#EXTINF:-1 ,CCTV-9 纪录
+http://156.238.248.80/2099.php?id=14
+#EXTINF:-1 ,CCTV-10 科教
+http://156.238.248.80/2099.php?id=15
+#EXTINF:-1 ,CCTV-11 戏曲
+http://156.238.248.80/2099.php?id=16
+#EXTINF:-1 ,CCTV-12 社会与法
+http://156.238.248.80/2099.php?id=17
+#EXTINF:-1 ,CCTV-13 新闻
+http://156.238.248.80/2099.php?id=18
+#EXTINF:-1 ,CCTV-14 少儿
+http://156.238.248.80/2099.php?id=19
+#EXTINF:-1 ,CCTV-15 音乐
+http://156.238.248.80/2099.php?id=20
+#EXTINF:-1 ,CCTV-17 农业农村
+http://156.238.248.80/2099.php?id=21
+#EXTINF:-1 ,====== 高清,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,湖南卫视4K
+http://156.238.248.80/2099.php?id=22
+#EXTINF:-1 ,深圳卫视4K
+http://156.238.248.80/2099.php?id=23
+#EXTINF:-1 ,北京卫视4K
+http://156.238.248.80/2099.php?id=24
+#EXTINF:-1 ,江苏卫视4K
+http://156.238.248.80/2099.php?id=25
+#EXTINF:-1 ,广东卫视4K
+http://156.238.248.80/2099.php?id=26
+#EXTINF:-1 ,深圳卫视4K
+http://156.238.248.80/2099.php?id=27
+#EXTINF:-1 ,河南卫视4K
+http://156.238.248.80/2099.php?id=28
+#EXTINF:-1 ,CCTV16 4K
+http://156.238.248.80/2099.php?id=29
+#EXTINF:-1 ,CCTV4K
+http://156.238.248.80/2099.php?id=30
+#EXTINF:-1 ,苏州4K
+http://156.238.248.80/2099.php?id=31
+#EXTINF:-1 ,河北4K
+http://156.238.248.80/2099.php?id=32
+#EXTINF:-1 ,====== 北京,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,北京卫视4K超高清
+http://156.238.248.80/2099.php?id=33
+#EXTINF:-1 ,北京卫视
+http://156.238.248.80/2099.php?id=34
+#EXTINF:-1 ,北京新闻
+http://156.238.248.80/2099.php?id=35
+#EXTINF:-1 ,北京影视
+http://156.238.248.80/2099.php?id=36
+#EXTINF:-1 ,北京生活
+http://156.238.248.80/2099.php?id=37
+#EXTINF:-1 ,北京文艺
+http://156.238.248.80/2099.php?id=38
+#EXTINF:-1 ,北京财经
+http://156.238.248.80/2099.php?id=39
+#EXTINF:-1 ,北京纪实科教
+http://156.238.248.80/2099.php?id=40
+#EXTINF:-1 ,北京卡酷少儿
+http://156.238.248.80/2099.php?id=41
+#EXTINF:-1 ,海南卫视
+http://156.238.248.80/2099.php?id=42
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=43
+#EXTINF:-1 ,吉林卫视
+http://156.238.248.80/2099.php?id=44
+#EXTINF:-1 ,内蒙古卫视
+http://156.238.248.80/2099.php?id=45
+#EXTINF:-1 ,山西卫视
+http://156.238.248.80/2099.php?id=46
+#EXTINF:-1 ,西藏卫视
+http://156.238.248.80/2099.php?id=47
+#EXTINF:-1 ,====== 魔都,#genre# ======
+http://3/3.m3u8
+#EXTINF:-1 ,东方卫视
+http://156.238.248.80/2099.php?id=48
+#EXTINF:-1 ,五星体育
+http://156.238.248.80/2099.php?id=49
+#EXTINF:-1 ,第一财经
+http://156.238.248.80/2099.php?id=50
+#EXTINF:-1 ,新闻综合
+http://156.238.248.80/2099.php?id=51
+#EXTINF:-1 ,都市频道
+http://156.238.248.80/2099.php?id=52
+#EXTINF:-1 ,新纪实
+http://156.238.248.80/2099.php?id=53
+#EXTINF:-1 ,魔都眼
+http://156.238.248.80/2099.php?id=54
+#EXTINF:-1 ,爱上海
+http://156.238.248.80/2099.php?id=55
+#EXTINF:-1 ,====== 河南,#genre# ======
+http://4/4.m3u8
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=56
+#EXTINF:-1 ,河南都市
+http://156.238.248.80/2099.php?id=57
+#EXTINF:-1 ,河南民生
+http://156.238.248.80/2099.php?id=58
+#EXTINF:-1 ,河南法治
+http://156.238.248.80/2099.php?id=59
+#EXTINF:-1 ,河南电视剧
+http://156.238.248.80/2099.php?id=60
+#EXTINF:-1 ,河南新闻
+http://156.238.248.80/2099.php?id=61
+#EXTINF:-1 ,河南公共
+http://156.238.248.80/2099.php?id=62
+#EXTINF:-1 ,河南乡村
+http://156.238.248.80/2099.php?id=63
+#EXTINF:-1 ,河南梨园
+http://156.238.248.80/2099.php?id=64
+#EXTINF:-1 ,文物宝库
+http://156.238.248.80/2099.php?id=65
+#EXTINF:-1 ,武术世界
+http://156.238.248.80/2099.php?id=66
+#EXTINF:-1 ,睛彩中原
+http://156.238.248.80/2099.php?id=67
+#EXTINF:-1 ,移动戏曲
+http://156.238.248.80/2099.php?id=68
+#EXTINF:-1 ,象视界
+http://156.238.248.80/2099.php?id=69
+#EXTINF:-1 ,郑州新闻综合
+http://156.238.248.80/2099.php?id=70
+#EXTINF:-1 ,开封新闻综合
+http://156.238.248.80/2099.php?id=71
+#EXTINF:-1 ,洛阳新闻综合
+http://156.238.248.80/2099.php?id=72
+#EXTINF:-1 ,安阳新闻综合
+http://156.238.248.80/2099.php?id=73
+#EXTINF:-1 ,鹤壁新闻综合
+http://156.238.248.80/2099.php?id=74
+#EXTINF:-1 ,新乡新闻综合
+http://156.238.248.80/2099.php?id=75
+#EXTINF:-1 ,焦作新闻综合
+http://156.238.248.80/2099.php?id=76
+#EXTINF:-1 ,濮阳新闻综合
+http://156.238.248.80/2099.php?id=77
+#EXTINF:-1 ,许昌新闻综合
+http://156.238.248.80/2099.php?id=78
+#EXTINF:-1 ,漯河新闻综合
+http://156.238.248.80/2099.php?id=79
+#EXTINF:-1 ,三门峡新闻综合
+http://156.238.248.80/2099.php?id=80
+#EXTINF:-1 ,南阳新闻综合
+http://156.238.248.80/2099.php?id=81
+#EXTINF:-1 ,商丘新闻综合
+http://156.238.248.80/2099.php?id=82
+#EXTINF:-1 ,信阳新闻综合
+http://156.238.248.80/2099.php?id=83
+#EXTINF:-1 ,周口新闻综合
+http://156.238.248.80/2099.php?id=84
+#EXTINF:-1 ,驻马店新闻综合
+http://156.238.248.80/2099.php?id=85
+#EXTINF:-1 ,济源新闻综合
+http://156.238.248.80/2099.php?id=86
+#EXTINF:-1 ,====== 浙江,#genre# ======
+http://5/5.m3u8
+#EXTINF:-1 ,浙江新闻
+http://156.238.248.80/2099.php?id=87
+#EXTINF:-1 ,浙江国际
+http://156.238.248.80/2099.php?id=88
+#EXTINF:-1 ,浙江少儿
+http://156.238.248.80/2099.php?id=89
+#EXTINF:-1 ,浙江教科
+http://156.238.248.80/2099.php?id=90
+#EXTINF:-1 ,之江纪录
+http://156.238.248.80/2099.php?id=91
+#EXTINF:-1 ,浙江民生
+http://156.238.248.80/2099.php?id=92
+#EXTINF:-1 ,浙江经济
+http://156.238.248.80/2099.php?id=93
+#EXTINF:-1 ,浙江钱江
+http://156.238.248.80/2099.php?id=94
+#EXTINF:-1 ,浙江萧山综合
+http://156.238.248.80/2099.php?id=95
+#EXTINF:-1 ,浙江文成新闻综合
+http://156.238.248.80/2099.php?id=96
+#EXTINF:-1 ,浙江新昌新闻综合
+http://156.238.248.80/2099.php?id=97
+#EXTINF:-1 ,浙江东阳影视生活
+http://156.238.248.80/2099.php?id=98
+#EXTINF:-1 ,浙江龙游新闻综合
+http://156.238.248.80/2099.php?id=99
+#EXTINF:-1 ,浙江龙游生活娱乐
+http://156.238.248.80/2099.php?id=100
+#EXTINF:-1 ,浙江开化国家公园
+http://156.238.248.80/2099.php?id=101
+#EXTINF:-1 ,浙江衢江新闻综合
+http://156.238.248.80/2099.php?id=102
+#EXTINF:-1 ,浙江青田电视台
+http://156.238.248.80/2099.php?id=103
+#EXTINF:-1 ,浙江松阳新闻综合
+http://156.238.248.80/2099.php?id=104
+#EXTINF:-1 ,浙江庆元新闻综合
+http://156.238.248.80/2099.php?id=105
+#EXTINF:-1 ,浙江青田电视台
+http://156.238.248.80/2099.php?id=106
+#EXTINF:-1 ,浙江诸暨新闻综合
+http://156.238.248.80/2099.php?id=107
+#EXTINF:-1 ,浙江松阳综合
+http://156.238.248.80/2099.php?id=108
+#EXTINF:-1 ,浙江衢江新闻综合
+http://156.238.248.80/2099.php?id=109
+#EXTINF:-1 ,====== 江苏,#genre# ======
+http://6/6.m3u8
+#EXTINF:-1 ,江苏卫视4K
+http://156.238.248.80/2099.php?id=110
+#EXTINF:-1 ,江苏卫视
+http://156.238.248.80/2099.php?id=111
+#EXTINF:-1 ,江苏城市
+http://156.238.248.80/2099.php?id=112
+#EXTINF:-1 ,江苏综艺
+http://156.238.248.80/2099.php?id=113
+#EXTINF:-1 ,江苏影视
+http://156.238.248.80/2099.php?id=114
+#EXTINF:-1 ,江苏新闻
+http://156.238.248.80/2099.php?id=115
+#EXTINF:-1 ,江苏教育
+http://156.238.248.80/2099.php?id=116
+#EXTINF:-1 ,江苏体育休闲
+http://156.238.248.80/2099.php?id=117
+#EXTINF:-1 ,江苏国际
+http://156.238.248.80/2099.php?id=118
+#EXTINF:-1 ,优漫卡通
+http://156.238.248.80/2099.php?id=119
+#EXTINF:-1 ,苏州综合
+http://156.238.248.80/2099.php?id=120
+#EXTINF:-1 ,苏州经济
+http://156.238.248.80/2099.php?id=121
+#EXTINF:-1 ,苏州生活
+http://156.238.248.80/2099.php?id=122
+#EXTINF:-1 ,苏州娱乐
+http://156.238.248.80/2099.php?id=123
+#EXTINF:-1 ,苏州资讯
+http://156.238.248.80/2099.php?id=124
+#EXTINF:-1 ,苏州4K台
+http://156.238.248.80/2099.php?id=125
+#EXTINF:-1 ,镇江综合
+http://156.238.248.80/2099.php?id=126
+#EXTINF:-1 ,镇江民生
+http://156.238.248.80/2099.php?id=127
+#EXTINF:-1 ,武进综合
+http://156.238.248.80/2099.php?id=128
+#EXTINF:-1 ,武进生活
+http://156.238.248.80/2099.php?id=129
+#EXTINF:-1 ,无锡综合
+http://156.238.248.80/2099.php?id=130
+#EXTINF:-1 ,无锡娱乐
+http://156.238.248.80/2099.php?id=131
+#EXTINF:-1 ,无锡都市
+http://156.238.248.80/2099.php?id=132
+#EXTINF:-1 ,无锡生活
+http://156.238.248.80/2099.php?id=133
+#EXTINF:-1 ,无锡经济
+http://156.238.248.80/2099.php?id=134
+#EXTINF:-1 ,宜兴综合
+http://156.238.248.80/2099.php?id=135
+#EXTINF:-1 ,泗阳综合
+http://156.238.248.80/2099.php?id=136
+#EXTINF:-1 ,泗阳资讯
+http://156.238.248.80/2099.php?id=137
+#EXTINF:-1 ,句容综合
+http://156.238.248.80/2099.php?id=138
+#EXTINF:-1 ,句容生活
+http://156.238.248.80/2099.php?id=139
+#EXTINF:-1 ,句容党建
+http://156.238.248.80/2099.php?id=140
+#EXTINF:-1 ,====== 山东,#genre# ======
+http://7/7.m3u8
+#EXTINF:-1 ,山东综艺
+http://156.238.248.80/2099.php?id=141
+#EXTINF:-1 ,山东生活
+http://156.238.248.80/2099.php?id=142
+#EXTINF:-1 ,山东文旅
+http://156.238.248.80/2099.php?id=143
+#EXTINF:-1 ,山东农科
+http://156.238.248.80/2099.php?id=144
+#EXTINF:-1 ,山东体育
+http://156.238.248.80/2099.php?id=145
+#EXTINF:-1 ,====== 河北,#genre# ======
+http://8/8.m3u8
+#EXTINF:-1 ,河北卫视
+http://156.238.248.80/2099.php?id=146
+#EXTINF:-1 ,河北卫视
+http://156.238.248.80/2099.php?id=147
+#EXTINF:-1 ,经济生活
+http://156.238.248.80/2099.php?id=148
+#EXTINF:-1 ,经济生活
+http://156.238.248.80/2099.php?id=149
+#EXTINF:-1 ,三农频道
+http://156.238.248.80/2099.php?id=150
+#EXTINF:-1 ,三农频道
+http://156.238.248.80/2099.php?id=151
+#EXTINF:-1 ,河北都市
+http://156.238.248.80/2099.php?id=152
+#EXTINF:-1 ,河北都市
+http://156.238.248.80/2099.php?id=153
+#EXTINF:-1 ,河北影视剧
+http://156.238.248.80/2099.php?id=154
+#EXTINF:-1 ,河北影视剧
+http://156.238.248.80/2099.php?id=155
+#EXTINF:-1 ,少儿科教
+http://156.238.248.80/2099.php?id=156
+#EXTINF:-1 ,少儿科教
+http://156.238.248.80/2099.php?id=157
+#EXTINF:-1 ,文旅·公共
+http://156.238.248.80/2099.php?id=158
+#EXTINF:-1 ,文旅·公共
+http://156.238.248.80/2099.php?id=159
+#EXTINF:-1 ,====== 广东,#genre# ======
+http://9/9.m3u8
+#EXTINF:-1 ,广州综合
+http://156.238.248.80/2099.php?id=160
+#EXTINF:-1 ,广州综合
+http://156.238.248.80/2099.php?id=161
+#EXTINF:-1 ,广州综合
+http://156.238.248.80/2099.php?id=162
+#EXTINF:-1 ,广州新闻
+http://156.238.248.80/2099.php?id=163
+#EXTINF:-1 ,广州南国
+http://156.238.248.80/2099.php?id=164
+#EXTINF:-1 ,番禺电视台
+http://156.238.248.80/2099.php?id=165
+#EXTINF:-1 ,河源综合
+http://156.238.248.80/2099.php?id=166
+#EXTINF:-1 ,番禺电视
+http://156.238.248.80/2099.php?id=167
+#EXTINF:-1 ,东莞新闻综合
+http://156.238.248.80/2099.php?id=168
+#EXTINF:-1 ,====== 内蒙,#genre# ======
+http://10/10.m3u8
+#EXTINF:-1 ,内蒙古蒙语
+http://156.238.248.80/2099.php?id=169
+#EXTINF:-1 ,内蒙古新闻综合
+http://156.238.248.80/2099.php?id=170
+#EXTINF:-1 ,内蒙古经济生活
+http://156.238.248.80/2099.php?id=171
+#EXTINF:-1 ,内蒙古文体娱乐
+http://156.238.248.80/2099.php?id=172
+#EXTINF:-1 ,内蒙古少儿
+http://156.238.248.80/2099.php?id=173
+#EXTINF:-1 ,内蒙古文化
+http://156.238.248.80/2099.php?id=174
+#EXTINF:-1 ,内蒙古农牧
+http://156.238.248.80/2099.php?id=175
+#EXTINF:-1 ,呼和浩特新闻综合
+http://156.238.248.80/2099.php?id=176
+#EXTINF:-1 ,包头新闻综合
+http://156.238.248.80/2099.php?id=177
+#EXTINF:-1 ,赤峰新闻综合
+http://156.238.248.80/2099.php?id=178
+#EXTINF:-1 ,鄂尔多斯新闻综合
+http://156.238.248.80/2099.php?id=179
+#EXTINF:-1 ,鄂尔多斯蒙语综合
+http://156.238.248.80/2099.php?id=180
+#EXTINF:-1 ,鄂尔多斯经济服务
+http://156.238.248.80/2099.php?id=181
+#EXTINF:-1 ,乌兰察布新闻综合
+http://156.238.248.80/2099.php?id=182
+#EXTINF:-1 ,呼伦贝尔新闻综合
+http://156.238.248.80/2099.php?id=183
+#EXTINF:-1 ,巴彦淖尔新闻综合
+http://156.238.248.80/2099.php?id=184
+#EXTINF:-1 ,阿拉善新闻综合
+http://156.238.248.80/2099.php?id=185
+#EXTINF:-1 ,通辽新闻综合
+http://156.238.248.80/2099.php?id=186
+#EXTINF:-1 ,乌海新闻综合
+http://156.238.248.80/2099.php?id=187
+#EXTINF:-1 ,兴安盟新闻综合
+http://156.238.248.80/2099.php?id=188
+#EXTINF:-1 ,锡林郭勒综合
+http://156.238.248.80/2099.php?id=189
+#EXTINF:-1 ,====== 4gtv,#genre# ======
+http://11/11.m3u8
+#EXTINF:-1 ,播放权限申请
+http://156.238.248.80/2099.php?id=190
+#EXTINF:-1 ,中天新聞台
+http://156.238.248.80/2099.php?id=191
+#EXTINF:-1 ,TVBS新聞
+http://156.238.248.80/2099.php?id=192
+#EXTINF:-1 ,民視新聞台
+http://156.238.248.80/2099.php?id=193
+#EXTINF:-1 ,東森新聞台
+http://156.238.248.80/2099.php?id=194
+#EXTINF:-1 ,華視新聞
+http://156.238.248.80/2099.php?id=195
+#EXTINF:-1 ,鏡電視新聞台
+http://156.238.248.80/2099.php?id=196
+#EXTINF:-1 ,東森財經新聞台
+http://156.238.248.80/2099.php?id=197
+#EXTINF:-1 ,中視新聞
+http://156.238.248.80/2099.php?id=198
+#EXTINF:-1 ,寰宇新聞台
+http://156.238.248.80/2099.php?id=199
+#EXTINF:-1 ,寰宇新聞台灣台
+http://156.238.248.80/2099.php?id=200
+#EXTINF:-1 ,三立新聞iNEWS
+http://156.238.248.80/2099.php?id=201
+#EXTINF:-1 ,Bloomberg TV
+http://156.238.248.80/2099.php?id=202
+#EXTINF:-1 ,SBN全球財經台
+http://156.238.248.80/2099.php?id=203
+#EXTINF:-1 ,FRANCE24 英文台
+http://156.238.248.80/2099.php?id=204
+#EXTINF:-1 ,半島國際新聞台
+http://156.238.248.80/2099.php?id=205
+#EXTINF:-1 ,NHK WORLD-JAPAN
+http://156.238.248.80/2099.php?id=206
+#EXTINF:-1 ,CNBC Asia 財經台
+http://156.238.248.80/2099.php?id=207
+#EXTINF:-1 ,DW德國之聲
+http://156.238.248.80/2099.php?id=208
+#EXTINF:-1 ,民視第一台
+http://156.238.248.80/2099.php?id=209
+#EXTINF:-1 ,民視台灣台
+http://156.238.248.80/2099.php?id=210
+#EXTINF:-1 ,民視
+http://156.238.248.80/2099.php?id=211
+#EXTINF:-1 ,三立綜合台
+http://156.238.248.80/2099.php?id=212
+#EXTINF:-1 ,華視
+http://156.238.248.80/2099.php?id=213
+#EXTINF:-1 ,中視
+http://156.238.248.80/2099.php?id=214
+#EXTINF:-1 ,中視經典台
+http://156.238.248.80/2099.php?id=215
+#EXTINF:-1 ,中視菁采台
+http://156.238.248.80/2099.php?id=216
+#EXTINF:-1 ,八大綜藝台
+http://156.238.248.80/2099.php?id=217
+#EXTINF:-1 ,TVBS精采台
+http://156.238.248.80/2099.php?id=218
+#EXTINF:-1 ,民視綜藝台
+http://156.238.248.80/2099.php?id=219
+#EXTINF:-1 ,TVBS
+http://156.238.248.80/2099.php?id=220
+#EXTINF:-1 ,TVBS歡樂台
+http://156.238.248.80/2099.php?id=221
+#EXTINF:-1 ,TVBS綜藝台
+http://156.238.248.80/2099.php?id=222
+#EXTINF:-1 ,TVBS台劇台
+http://156.238.248.80/2099.php?id=223
+#EXTINF:-1 ,靖天綜合台
+http://156.238.248.80/2099.php?id=224
+#EXTINF:-1 ,靖天日本台
+http://156.238.248.80/2099.php?id=225
+#EXTINF:-1 ,KLT-靖天國際台
+http://156.238.248.80/2099.php?id=226
+#EXTINF:-1 ,靖天資訊台
+http://156.238.248.80/2099.php?id=227
+#EXTINF:-1 ,Nice TV 靖天歡樂台
+http://156.238.248.80/2099.php?id=228
+#EXTINF:-1 ,新唐人亞太台
+http://156.238.248.80/2099.php?id=229
+#EXTINF:-1 ,ARIRANG阿里郎頻道
+http://156.238.248.80/2099.php?id=230
+#EXTINF:-1 ,Global Trekker
+http://156.238.248.80/2099.php?id=231
+#EXTINF:-1 ,原住民族電視台
+http://156.238.248.80/2099.php?id=232
+#EXTINF:-1 ,客家電視台
+http://156.238.248.80/2099.php?id=233
+#EXTINF:-1 ,國會頻道1
+http://156.238.248.80/2099.php?id=234
+#EXTINF:-1 ,國會頻道2
+http://156.238.248.80/2099.php?id=235
+#EXTINF:-1 ,好消息
+http://156.238.248.80/2099.php?id=236
+#EXTINF:-1 ,好消息2台
+http://156.238.248.80/2099.php?id=237
+#EXTINF:-1 ,大愛電視
+http://156.238.248.80/2099.php?id=238
+#EXTINF:-1 ,大愛二台
+http://156.238.248.80/2099.php?id=239
+#EXTINF:-1 ,人間衛視
+http://156.238.248.80/2099.php?id=240
+#EXTINF:-1 ,民視旅遊台
+http://156.238.248.80/2099.php?id=241
+#EXTINF:-1 ,亞洲旅遊台
+http://156.238.248.80/2099.php?id=242
+#EXTINF:-1 ,愛爾達生活旅遊台
+http://156.238.248.80/2099.php?id=243
+#EXTINF:-1 ,fun探索娛樂台
+http://156.238.248.80/2099.php?id=244
+#EXTINF:-1 ,幸福空間居家台
+http://156.238.248.80/2099.php?id=245
+#EXTINF:-1 ,Love Nature
+http://156.238.248.80/2099.php?id=246
+#EXTINF:-1 ,History 歷史頻道
+http://156.238.248.80/2099.php?id=247
+#EXTINF:-1 ,LUXE TV Channel
+http://156.238.248.80/2099.php?id=248
+#EXTINF:-1 ,TV5MONDE STYLE HD 生活時尚
+http://156.238.248.80/2099.php?id=249
+#EXTINF:-1 ,MagellanTV頻道 (麥哲倫頻道)
+http://156.238.248.80/2099.php?id=250
+#EXTINF:-1 ,Lifetime 娛樂頻道
+http://156.238.248.80/2099.php?id=251
+#EXTINF:-1 ,ROCK Entertainment
+http://156.238.248.80/2099.php?id=252
+#EXTINF:-1 ,八大精彩台
+http://156.238.248.80/2099.php?id=253
+#EXTINF:-1 ,靖天育樂台
+http://156.238.248.80/2099.php?id=254
+#EXTINF:-1 ,豬哥亮歌廳秀
+http://156.238.248.80/2099.php?id=255
+#EXTINF:-1 ,韓國娛樂台 KMTV
+http://156.238.248.80/2099.php?id=256
+#EXTINF:-1 ,愛爾達娛樂台
+http://156.238.248.80/2099.php?id=257
+#EXTINF:-1 ,民視影劇台
+http://156.238.248.80/2099.php?id=258
+#EXTINF:-1 ,公視戲劇
+http://156.238.248.80/2099.php?id=259
+#EXTINF:-1 ,采昌影劇台
+http://156.238.248.80/2099.php?id=260
+#EXTINF:-1 ,靖天戲劇台
+http://156.238.248.80/2099.php?id=261
+#EXTINF:-1 ,靖洋戲劇台
+http://156.238.248.80/2099.php?id=262
+#EXTINF:-1 ,靖天映畫
+http://156.238.248.80/2099.php?id=263
+#EXTINF:-1 ,靖天電影台
+http://156.238.248.80/2099.php?id=264
+#EXTINF:-1 ,影迷數位電影台
+http://156.238.248.80/2099.php?id=265
+#EXTINF:-1 ,amc電影台
+http://156.238.248.80/2099.php?id=266
+#EXTINF:-1 ,CinemaWorld
+http://156.238.248.80/2099.php?id=267
+#EXTINF:-1 ,My Cinema Europe HD 我的歐洲電影
+http://156.238.248.80/2099.php?id=268
+#EXTINF:-1 ,經典電影台
+http://156.238.248.80/2099.php?id=269
+#EXTINF:-1 ,電影原聲台CMusic
+http://156.238.248.80/2099.php?id=270
+#EXTINF:-1 ,CI 罪案偵查頻道
+http://156.238.248.80/2099.php?id=271
+#EXTINF:-1 ,視納華仁紀實頻道
+http://156.238.248.80/2099.php?id=272
+#EXTINF:-1 ,影迷數位紀實台
+http://156.238.248.80/2099.php?id=273
+#EXTINF:-1 ,戲劇免費看 1台
+http://156.238.248.80/2099.php?id=274
+#EXTINF:-1 ,LiveABC互動英語頻道
+http://156.238.248.80/2099.php?id=275
+#EXTINF:-1 ,ELTV生活英語台
+http://156.238.248.80/2099.php?id=276
+#EXTINF:-1 ,MOMO親子台
+http://156.238.248.80/2099.php?id=277
+#EXTINF:-1 ,Nick Jr. 兒童頻道
+http://156.238.248.80/2099.php?id=278
+#EXTINF:-1 ,尼克兒童頻道
+http://156.238.248.80/2099.php?id=279
+#EXTINF:-1 ,DreamWorks 夢工廠動畫
+http://156.238.248.80/2099.php?id=280
+#EXTINF:-1 ,靖天卡通台
+http://156.238.248.80/2099.php?id=281
+#EXTINF:-1 ,靖洋卡通Nice Bingo
+http://156.238.248.80/2099.php?id=282
+#EXTINF:-1 ,金光布袋戲
+http://156.238.248.80/2099.php?id=283
+#EXTINF:-1 ,霹靂布袋戲
+http://156.238.248.80/2099.php?id=284
+#EXTINF:-1 ,經典卡通台
+http://156.238.248.80/2099.php?id=285
+#EXTINF:-1 ,精選動漫台
+http://156.238.248.80/2099.php?id=286
+#EXTINF:-1 ,MTV Live HD 音樂頻道
+http://156.238.248.80/2099.php?id=287
+#EXTINF:-1 ,Mezzo Live HD
+http://156.238.248.80/2099.php?id=288
+#EXTINF:-1 ,CLASSICA 古典樂
+http://156.238.248.80/2099.php?id=289
+#EXTINF:-1 ,INULTRA
+http://156.238.248.80/2099.php?id=290
+#EXTINF:-1 ,TRACE Urban
+http://156.238.248.80/2099.php?id=291
+#EXTINF:-1 ,TRACE Sport Stars
+http://156.238.248.80/2099.php?id=292
+#EXTINF:-1 ,ROCK Action
+http://156.238.248.80/2099.php?id=293
+#EXTINF:-1 ,HITS頻道
+http://156.238.248.80/2099.php?id=294
+#EXTINF:-1 ,車迷TV
+http://156.238.248.80/2099.php?id=295
+#EXTINF:-1 ,GINX Esports TV
+http://156.238.248.80/2099.php?id=296
+#EXTINF:-1 ,Pet Club TV
+http://156.238.248.80/2099.php?id=297
+#EXTINF:-1 ,滾動力rollor
+http://156.238.248.80/2099.php?id=298
+#EXTINF:-1 ,達文西頻道
+http://156.238.248.80/2099.php?id=299
+#EXTINF:-1 ,智林體育台
+http://156.238.248.80/2099.php?id=300
+#EXTINF:-1 ,時尚運動X
+http://156.238.248.80/2099.php?id=301
+#EXTINF:-1 ,====== 四季,#genre# ======
+http://12/12.m3u8
+#EXTINF:-1 ,民視第一台
+http://156.238.248.80/2099.php?id=302
+#EXTINF:-1 ,民視台灣台
+http://156.238.248.80/2099.php?id=303
+#EXTINF:-1 ,民視HD
+http://156.238.248.80/2099.php?id=304
+#EXTINF:-1 ,大愛電視
+http://156.238.248.80/2099.php?id=305
+#EXTINF:-1 ,中視
+http://156.238.248.80/2099.php?id=306
+#EXTINF:-1 ,華視
+http://156.238.248.80/2099.php?id=307
+#EXTINF:-1 ,三立綜合合
+http://156.238.248.80/2099.php?id=308
+#EXTINF:-1 ,客家電視
+http://156.238.248.80/2099.php?id=309
+#EXTINF:-1 ,中視菁采台
+http://156.238.248.80/2099.php?id=310
+#EXTINF:-1 ,靖天綜合
+http://156.238.248.80/2099.php?id=311
+#EXTINF:-1 ,靖天日本
+http://156.238.248.80/2099.php?id=312
+#EXTINF:-1 ,新唐人亞太台
+http://156.238.248.80/2099.php?id=313
+#EXTINF:-1 ,Arirang TV
+http://156.238.248.80/2099.php?id=314
+#EXTINF:-1 ,原住民族電視台
+http://156.238.248.80/2099.php?id=315
+#EXTINF:-1 ,TVBS HD
+http://156.238.248.80/2099.php?id=316
+#EXTINF:-1 ,靖天育樂
+http://156.238.248.80/2099.php?id=317
+#EXTINF:-1 ,靖天國際
+http://156.238.248.80/2099.php?id=318
+#EXTINF:-1 ,靖天歡樂
+http://156.238.248.80/2099.php?id=319
+#EXTINF:-1 ,靖天資訊
+http://156.238.248.80/2099.php?id=320
+#EXTINF:-1 ,韓國娛樂台
+http://156.238.248.80/2099.php?id=321
+#EXTINF:-1 ,東森購物三台
+http://156.238.248.80/2099.php?id=322
+#EXTINF:-1 ,好消息
+http://156.238.248.80/2099.php?id=323
+#EXTINF:-1 ,好消息2台
+http://156.238.248.80/2099.php?id=324
+#EXTINF:-1 ,大愛二台
+http://156.238.248.80/2099.php?id=325
+#EXTINF:-1 ,人間衛視
+http://156.238.248.80/2099.php?id=326
+#EXTINF:-1 ,國會頻道1
+http://156.238.248.80/2099.php?id=327
+#EXTINF:-1 ,國會頻道2
+http://156.238.248.80/2099.php?id=328
+#EXTINF:-1 ,民視第一台
+http://156.238.248.80/2099.php?id=329
+#EXTINF:-1 ,民視台灣台
+http://156.238.248.80/2099.php?id=330
+#EXTINF:-1 ,中視
+http://156.238.248.80/2099.php?id=331
+#EXTINF:-1 ,華視
+http://156.238.248.80/2099.php?id=332
+#EXTINF:-1 ,中天亞洲台
+http://156.238.248.80/2099.php?id=333
+#EXTINF:-1 ,三立綜合合
+http://156.238.248.80/2099.php?id=334
+#EXTINF:-1 ,客家電視
+http://156.238.248.80/2099.php?id=335
+#EXTINF:-1 ,中視菁采台
+http://156.238.248.80/2099.php?id=336
+#EXTINF:-1 ,靖天綜合
+http://156.238.248.80/2099.php?id=337
+#EXTINF:-1 ,靖天日本
+http://156.238.248.80/2099.php?id=338
+#EXTINF:-1 ,Arirang TV
+http://156.238.248.80/2099.php?id=339
+#EXTINF:-1 ,TVBS HD
+http://156.238.248.80/2099.php?id=340
+#EXTINF:-1 ,靖天育樂
+http://156.238.248.80/2099.php?id=341
+#EXTINF:-1 ,靖天國際
+http://156.238.248.80/2099.php?id=342
+#EXTINF:-1 ,靖天歡樂
+http://156.238.248.80/2099.php?id=343
+#EXTINF:-1 ,靖天資訊
+http://156.238.248.80/2099.php?id=344
+#EXTINF:-1 ,韓國娛樂台
+http://156.238.248.80/2099.php?id=345
+#EXTINF:-1 ,好消息
+http://156.238.248.80/2099.php?id=346
+#EXTINF:-1 ,好消息2台
+http://156.238.248.80/2099.php?id=347
+#EXTINF:-1 ,國會頻道1
+http://156.238.248.80/2099.php?id=348
+#EXTINF:-1 ,國會頻道2
+http://156.238.248.80/2099.php?id=349
+#EXTINF:-1 ,台視HD
+http://156.238.248.80/2099.php?id=350
+#EXTINF:-1 ,台視HD
+http://156.238.248.80/2099.php?id=351
+#EXTINF:-1 ,中視
+http://156.238.248.80/2099.php?id=352
+#EXTINF:-1 ,華視
+http://156.238.248.80/2099.php?id=353
+#EXTINF:-1 ,好消息
+http://156.238.248.80/2099.php?id=354
+#EXTINF:-1 ,好消息2台
+http://156.238.248.80/2099.php?id=355
+#EXTINF:-1 ,國會頻道1
+http://156.238.248.80/2099.php?id=356
+#EXTINF:-1 ,國會頻道2
+http://156.238.248.80/2099.php?id=357
+#EXTINF:-1 ,中視經典台
+http://156.238.248.80/2099.php?id=358
+#EXTINF:-1 ,ROCK Entertainment
+http://156.238.248.80/2099.php?id=359
+#EXTINF:-1 ,公視戲劇
+http://156.238.248.80/2099.php?id=360
+#EXTINF:-1 ,民視影劇
+http://156.238.248.80/2099.php?id=361
+#EXTINF:-1 ,HITS
+http://156.238.248.80/2099.php?id=362
+#EXTINF:-1 ,霹靂布袋戲
+http://156.238.248.80/2099.php?id=363
+#EXTINF:-1 ,靖天戲劇
+http://156.238.248.80/2099.php?id=364
+#EXTINF:-1 ,靖洋戲劇
+http://156.238.248.80/2099.php?id=365
+#EXTINF:-1 ,金光布袋戲
+http://156.238.248.80/2099.php?id=366
+#EXTINF:-1 ,ROCK Action
+http://156.238.248.80/2099.php?id=367
+#EXTINF:-1 ,采昌影劇
+http://156.238.248.80/2099.php?id=368
+#EXTINF:-1 ,靖天映畫
+http://156.238.248.80/2099.php?id=369
+#EXTINF:-1 ,靖天電影
+http://156.238.248.80/2099.php?id=370
+#EXTINF:-1 ,影迷數位電影台
+http://156.238.248.80/2099.php?id=371
+#EXTINF:-1 ,amc 電影台
+http://156.238.248.80/2099.php?id=372
+#EXTINF:-1 ,Cinema World
+http://156.238.248.80/2099.php?id=373
+#EXTINF:-1 ,歐洲光影
+http://156.238.248.80/2099.php?id=374
+#EXTINF:-1 ,TVBS台劇台
+http://156.238.248.80/2099.php?id=375
+#EXTINF:-1 ,經典電影台
+http://156.238.248.80/2099.php?id=376
+#EXTINF:-1 ,戲劇免費看1台
+http://156.238.248.80/2099.php?id=377
+#EXTINF:-1 ,中視經典台
+http://156.238.248.80/2099.php?id=378
+#EXTINF:-1 ,龍華洋片
+http://156.238.248.80/2099.php?id=379
+#EXTINF:-1 ,龍華電影
+http://156.238.248.80/2099.php?id=380
+#EXTINF:-1 ,龍華日韓
+http://156.238.248.80/2099.php?id=381
+#EXTINF:-1 ,龍華偶像
+http://156.238.248.80/2099.php?id=382
+#EXTINF:-1 ,龍華戲劇
+http://156.238.248.80/2099.php?id=383
+#EXTINF:-1 ,龍華經典
+http://156.238.248.80/2099.php?id=384
+#EXTINF:-1 ,公視戲劇
+http://156.238.248.80/2099.php?id=385
+#EXTINF:-1 ,民視影劇
+http://156.238.248.80/2099.php?id=386
+#EXTINF:-1 ,靖天戲劇
+http://156.238.248.80/2099.php?id=387
+#EXTINF:-1 ,靖洋戲劇
+http://156.238.248.80/2099.php?id=388
+#EXTINF:-1 ,采昌影劇
+http://156.238.248.80/2099.php?id=389
+#EXTINF:-1 ,靖天映畫
+http://156.238.248.80/2099.php?id=390
+#EXTINF:-1 ,靖天電影
+http://156.238.248.80/2099.php?id=391
+#EXTINF:-1 ,影迷數位電影台
+http://156.238.248.80/2099.php?id=392
+#EXTINF:-1 ,amc 電影台
+http://156.238.248.80/2099.php?id=393
+#EXTINF:-1 ,台灣戲劇台
+http://156.238.248.80/2099.php?id=394
+#EXTINF:-1 ,台灣戲劇台
+http://156.238.248.80/2099.php?id=395
+#EXTINF:-1 ,龍華洋片
+http://156.238.248.80/2099.php?id=396
+#EXTINF:-1 ,龍華電影
+http://156.238.248.80/2099.php?id=397
+#EXTINF:-1 ,龍華日韓
+http://156.238.248.80/2099.php?id=398
+#EXTINF:-1 ,龍華偶像
+http://156.238.248.80/2099.php?id=399
+#EXTINF:-1 ,龍華戲劇
+http://156.238.248.80/2099.php?id=400
+#EXTINF:-1 ,龍華經典
+http://156.238.248.80/2099.php?id=401
+#EXTINF:-1 ,八大綜藝
+http://156.238.248.80/2099.php?id=402
+#EXTINF:-1 ,TVBS精采台
+http://156.238.248.80/2099.php?id=403
+#EXTINF:-1 ,ELTA娛樂
+http://156.238.248.80/2099.php?id=404
+#EXTINF:-1 ,民視綜藝
+http://156.238.248.80/2099.php?id=405
+#EXTINF:-1 ,豬哥亮歌廳秀
+http://156.238.248.80/2099.php?id=406
+#EXTINF:-1 ,TVBS歡樂台
+http://156.238.248.80/2099.php?id=407
+#EXTINF:-1 ,電影原聲台 CMusic
+http://156.238.248.80/2099.php?id=408
+#EXTINF:-1 ,Trace Urban
+http://156.238.248.80/2099.php?id=409
+#EXTINF:-1 ,MTV Live
+http://156.238.248.80/2099.php?id=410
+#EXTINF:-1 ,MEZZO LIVE HD
+http://156.238.248.80/2099.php?id=411
+#EXTINF:-1 ,CLASSICA 古典樂
+http://156.238.248.80/2099.php?id=412
+#EXTINF:-1 ,八大精彩
+http://156.238.248.80/2099.php?id=413
+#EXTINF:-1 ,TVBS綜藝台
+http://156.238.248.80/2099.php?id=414
+#EXTINF:-1 ,八大綜藝
+http://156.238.248.80/2099.php?id=415
+#EXTINF:-1 ,TVBS精采台
+http://156.238.248.80/2099.php?id=416
+#EXTINF:-1 ,ELTA娛樂
+http://156.238.248.80/2099.php?id=417
+#EXTINF:-1 ,民視綜藝
+http://156.238.248.80/2099.php?id=418
+#EXTINF:-1 ,豬哥亮歌廳秀
+http://156.238.248.80/2099.php?id=419
+#EXTINF:-1 ,TVBS歡樂台
+http://156.238.248.80/2099.php?id=420
+#EXTINF:-1 ,Trace Urban
+http://156.238.248.80/2099.php?id=421
+#EXTINF:-1 ,MEZZO LIVE HD
+http://156.238.248.80/2099.php?id=422
+#EXTINF:-1 ,CLASSICA 古典樂
+http://156.238.248.80/2099.php?id=423
+#EXTINF:-1 ,八大精彩
+http://156.238.248.80/2099.php?id=424
+#EXTINF:-1 ,Global Trekker
+http://156.238.248.80/2099.php?id=425
+#EXTINF:-1 ,Lifetime
+http://156.238.248.80/2099.php?id=426
+#EXTINF:-1 ,INULTRA
+http://156.238.248.80/2099.php?id=427
+#EXTINF:-1 ,Pet Club TV
+http://156.238.248.80/2099.php?id=428
+#EXTINF:-1 ,民視旅遊
+http://156.238.248.80/2099.php?id=429
+#EXTINF:-1 ,滾動力 Rollor
+http://156.238.248.80/2099.php?id=430
+#EXTINF:-1 ,亞洲旅遊
+http://156.238.248.80/2099.php?id=431
+#EXTINF:-1 ,FUN 4K探索娛樂
+http://156.238.248.80/2099.php?id=432
+#EXTINF:-1 ,幸福空間居家台
+http://156.238.248.80/2099.php?id=433
+#EXTINF:-1 ,LOVE NATURE
+http://156.238.248.80/2099.php?id=434
+#EXTINF:-1 ,ELTA生活旅遊
+http://156.238.248.80/2099.php?id=435
+#EXTINF:-1 ,LUXE TV
+http://156.238.248.80/2099.php?id=436
+#EXTINF:-1 ,TV5MONDE Style
+http://156.238.248.80/2099.php?id=437
+#EXTINF:-1 ,MagellanTV頻道
+http://156.238.248.80/2099.php?id=438
+#EXTINF:-1 ,民視旅遊
+http://156.238.248.80/2099.php?id=439
+#EXTINF:-1 ,亞洲旅遊
+http://156.238.248.80/2099.php?id=440
+#EXTINF:-1 ,Smart知識台
+http://156.238.248.80/2099.php?id=441
+#EXTINF:-1 ,亞洲旅遊
+http://156.238.248.80/2099.php?id=442
+#EXTINF:-1 ,Smart知識台
+http://156.238.248.80/2099.php?id=443
+#EXTINF:-1 ,LiveABC 互動英語台
+http://156.238.248.80/2099.php?id=444
+#EXTINF:-1 ,達文西
+http://156.238.248.80/2099.php?id=445
+#EXTINF:-1 ,ELTV生活英語台
+http://156.238.248.80/2099.php?id=446
+#EXTINF:-1 ,Nick Jr.
+http://156.238.248.80/2099.php?id=447
+#EXTINF:-1 ,Nickelodeon
+http://156.238.248.80/2099.php?id=448
+#EXTINF:-1 ,DreamWorks
+http://156.238.248.80/2099.php?id=449
+#EXTINF:-1 ,靖天卡通台
+http://156.238.248.80/2099.php?id=450
+#EXTINF:-1 ,靖洋卡通
+http://156.238.248.80/2099.php?id=451
+#EXTINF:-1 ,MOMO親子
+http://156.238.248.80/2099.php?id=452
+#EXTINF:-1 ,經典卡通台
+http://156.238.248.80/2099.php?id=453
+#EXTINF:-1 ,精選動漫台
+http://156.238.248.80/2099.php?id=454
+#EXTINF:-1 ,龍華卡通
+http://156.238.248.80/2099.php?id=455
+#EXTINF:-1 ,達文西
+http://156.238.248.80/2099.php?id=456
+#EXTINF:-1 ,ELTV生活英語台
+http://156.238.248.80/2099.php?id=457
+#EXTINF:-1 ,靖天卡通台
+http://156.238.248.80/2099.php?id=458
+#EXTINF:-1 ,靖洋卡通
+http://156.238.248.80/2099.php?id=459
+#EXTINF:-1 ,ELTV生活英語台
+http://156.238.248.80/2099.php?id=460
+#EXTINF:-1 ,龍華卡通
+http://156.238.248.80/2099.php?id=461
+#EXTINF:-1 ,鏡電視新聞台
+http://156.238.248.80/2099.php?id=462
+#EXTINF:-1 ,東森新聞
+http://156.238.248.80/2099.php?id=463
+#EXTINF:-1 ,華視新聞台
+http://156.238.248.80/2099.php?id=464
+#EXTINF:-1 ,民視新聞
+http://156.238.248.80/2099.php?id=465
+#EXTINF:-1 ,三立iNEWS
+http://156.238.248.80/2099.php?id=466
+#EXTINF:-1 ,東森財經新聞
+http://156.238.248.80/2099.php?id=467
+#EXTINF:-1 ,中視新聞台
+http://156.238.248.80/2099.php?id=468
+#EXTINF:-1 ,中天新聞台
+http://156.238.248.80/2099.php?id=469
+#EXTINF:-1 ,BLOOMBERG TV
+http://156.238.248.80/2099.php?id=470
+#EXTINF:-1 ,寰宇新聞
+http://156.238.248.80/2099.php?id=471
+#EXTINF:-1 ,寰宇新聞台灣台
+http://156.238.248.80/2099.php?id=472
+#EXTINF:-1 ,SBN 全球財經台
+http://156.238.248.80/2099.php?id=473
+#EXTINF:-1 ,寰宇財經
+http://156.238.248.80/2099.php?id=474
+#EXTINF:-1 ,FRANCE24 英文台
+http://156.238.248.80/2099.php?id=475
+#EXTINF:-1 ,半島國際新聞台
+http://156.238.248.80/2099.php?id=476
+#EXTINF:-1 ,VOA 美國之音
+http://156.238.248.80/2099.php?id=477
+#EXTINF:-1 ,CNBC Asia 財經台
+http://156.238.248.80/2099.php?id=478
+#EXTINF:-1 ,DW德國之聲
+http://156.238.248.80/2099.php?id=479
+#EXTINF:-1 ,非凡新聞
+http://156.238.248.80/2099.php?id=480
+#EXTINF:-1 ,非凡商業
+http://156.238.248.80/2099.php?id=481
+#EXTINF:-1 ,台視財經台
+http://156.238.248.80/2099.php?id=482
+#EXTINF:-1 ,鏡電視新聞台
+http://156.238.248.80/2099.php?id=483
+#EXTINF:-1 ,東森新聞
+http://156.238.248.80/2099.php?id=484
+#EXTINF:-1 ,民視新聞
+http://156.238.248.80/2099.php?id=485
+#EXTINF:-1 ,TVBS新聞台
+http://156.238.248.80/2099.php?id=486
+#EXTINF:-1 ,東森財經新聞
+http://156.238.248.80/2099.php?id=487
+#EXTINF:-1 ,中視新聞台
+http://156.238.248.80/2099.php?id=488
+#EXTINF:-1 ,中天新聞台
+http://156.238.248.80/2099.php?id=489
+#EXTINF:-1 ,寰宇新聞
+http://156.238.248.80/2099.php?id=490
+#EXTINF:-1 ,寰宇新聞台灣台
+http://156.238.248.80/2099.php?id=491
+#EXTINF:-1 ,寰宇財經
+http://156.238.248.80/2099.php?id=492
+#EXTINF:-1 ,半島國際新聞台
+http://156.238.248.80/2099.php?id=493
+#EXTINF:-1 ,VOA 美國之音
+http://156.238.248.80/2099.php?id=494
+#EXTINF:-1 ,台視新聞台
+http://156.238.248.80/2099.php?id=495
+#EXTINF:-1 ,第1商業台
+http://156.238.248.80/2099.php?id=496
+#EXTINF:-1 ,台視新聞台
+http://156.238.248.80/2099.php?id=497
+#EXTINF:-1 ,中視新聞台
+http://156.238.248.80/2099.php?id=498
+#EXTINF:-1 ,中天新聞台
+http://156.238.248.80/2099.php?id=499
+#EXTINF:-1 ,寰宇新聞
+http://156.238.248.80/2099.php?id=500
+#EXTINF:-1 ,寰宇新聞台灣台
+http://156.238.248.80/2099.php?id=501
+#EXTINF:-1 ,寰宇財經
+http://156.238.248.80/2099.php?id=502
+#EXTINF:-1 ,第1商業台
+http://156.238.248.80/2099.php?id=503
+#EXTINF:-1 ,三立iNEWS
+http://156.238.248.80/2099.php?id=504
+#EXTINF:-1 ,倪珍播新聞
+http://156.238.248.80/2099.php?id=505
+#EXTINF:-1 ,倪珍英語新聞
+http://156.238.248.80/2099.php?id=506
+#EXTINF:-1 ,倪珍越語新聞
+http://156.238.248.80/2099.php?id=507
+#EXTINF:-1 ,TRACE Sport Stars
+http://156.238.248.80/2099.php?id=508
+#EXTINF:-1 ,智林體育
+http://156.238.248.80/2099.php?id=509
+#EXTINF:-1 ,時尚運動X
+http://156.238.248.80/2099.php?id=510
+#EXTINF:-1 ,車迷 TV
+http://156.238.248.80/2099.php?id=511
+#EXTINF:-1 ,GINX Esports TV
+http://156.238.248.80/2099.php?id=512
+#EXTINF:-1 ,博斯魅力
+http://156.238.248.80/2099.php?id=513
+#EXTINF:-1 ,博斯高球I
+http://156.238.248.80/2099.php?id=514
+#EXTINF:-1 ,博斯高球II
+http://156.238.248.80/2099.php?id=515
+#EXTINF:-1 ,博斯運動I
+http://156.238.248.80/2099.php?id=516
+#EXTINF:-1 ,博斯運動II
+http://156.238.248.80/2099.php?id=517
+#EXTINF:-1 ,博斯網球
+http://156.238.248.80/2099.php?id=518
+#EXTINF:-1 ,博斯無限I
+http://156.238.248.80/2099.php?id=519
+#EXTINF:-1 ,博斯無限II
+http://156.238.248.80/2099.php?id=520
+#EXTINF:-1 ,TRACE Sport Stars
+http://156.238.248.80/2099.php?id=521
+#EXTINF:-1 ,智林體育
+http://156.238.248.80/2099.php?id=522
+#EXTINF:-1 ,時尚運動X
+http://156.238.248.80/2099.php?id=523
+#EXTINF:-1 ,GINX Esports TV
+http://156.238.248.80/2099.php?id=524
+#EXTINF:-1 ,歷史頻道
+http://156.238.248.80/2099.php?id=525
+#EXTINF:-1 ,CI 罪案偵查頻道
+http://156.238.248.80/2099.php?id=526
+#EXTINF:-1 ,視納華仁紀實頻道
+http://156.238.248.80/2099.php?id=527
+#EXTINF:-1 ,影迷數位紀實台
+http://156.238.248.80/2099.php?id=528
+#EXTINF:-1 ,視納華仁紀實頻道
+http://156.238.248.80/2099.php?id=529
+#EXTINF:-1 ,影迷數位紀實台
+http://156.238.248.80/2099.php?id=530
+#EXTINF:-1 ,====== 港台,#genre# ======
+http://13/13.m3u8
+#EXTINF:-1 ,TVBJ1美
+http://156.238.248.80/2099.php?id=531
+#EXTINF:-1 ,无线翡翠
+http://156.238.248.80/2099.php?id=532
+#EXTINF:-1 ,无线华丽国
+http://156.238.248.80/2099.php?id=533
+#EXTINF:-1 ,无线明珠粤
+http://156.238.248.80/2099.php?id=534
+#EXTINF:-1 ,无线明珠
+http://156.238.248.80/2099.php?id=535
+#EXTINF:-1 ,无线娱乐
+http://156.238.248.80/2099.php?id=536
+#EXTINF:-1 ,无线星河
+http://156.238.248.80/2099.php?id=537
+#EXTINF:-1 ,无线千禧
+http://156.238.248.80/2099.php?id=538
+#EXTINF:-1 ,VIUTV粤
+http://156.238.248.80/2099.php?id=539
+#EXTINF:-1 ,RTHK31
+http://156.238.248.80/2099.php?id=540
+#EXTINF:-1 ,RTHK32
+http://156.238.248.80/2099.php?id=541
+#EXTINF:-1 ,AstroRio
+http://156.238.248.80/2099.php?id=542
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=543
+#EXTINF:-1 ,无线新闻台
+http://156.238.248.80/2099.php?id=544
+#EXTINF:-1 ,TVB星河
+http://156.238.248.80/2099.php?id=545
+#EXTINF:-1 ,TVB娱乐新闻台
+http://156.238.248.80/2099.php?id=546
+#EXTINF:-1 ,天映频道
+http://156.238.248.80/2099.php?id=547
+#EXTINF:-1 ,天映经典
+http://156.238.248.80/2099.php?id=548
+#EXTINF:-1 ,Astro AOD
+http://156.238.248.80/2099.php?id=549
+#EXTINF:-1 ,Astro AEC
+http://156.238.248.80/2099.php?id=550
+#EXTINF:-1 ,爱奇艺
+http://156.238.248.80/2099.php?id=551
+#EXTINF:-1 ,Astro QJ
+http://156.238.248.80/2099.php?id=552
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=553
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=554
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=555
+#EXTINF:-1 ,明珠台
+http://156.238.248.80/2099.php?id=556
+#EXTINF:-1 ,明珠台
+http://156.238.248.80/2099.php?id=557
+#EXTINF:-1 ,翡翠台北美版(TVB J1)
+http://156.238.248.80/2099.php?id=558
+#EXTINF:-1 ,TVB Plus
+http://156.238.248.80/2099.php?id=559
+#EXTINF:-1 ,VIUTV
+http://156.238.248.80/2099.php?id=560
+#EXTINF:-1 ,VIUTV
+http://156.238.248.80/2099.php?id=561
+#EXTINF:-1 ,HOY TV
+http://156.238.248.80/2099.php?id=562
+#EXTINF:-1 ,HOY TV
+http://156.238.248.80/2099.php?id=563
+#EXTINF:-1 ,凤凰中文
+http://156.238.248.80/2099.php?id=564
+#EXTINF:-1 ,凤凰资讯
+http://156.238.248.80/2099.php?id=565
+#EXTINF:-1 ,凤凰资讯
+http://156.238.248.80/2099.php?id=566
+#EXTINF:-1 ,重温经典
+http://156.238.248.80/2099.php?id=567
+#EXTINF:-1 ,广东珠江
+http://156.238.248.80/2099.php?id=568
+#EXTINF:-1 ,广东体育
+http://156.238.248.80/2099.php?id=569
+#EXTINF:-1 ,澳视卫星
+http://156.238.248.80/2099.php?id=570
+#EXTINF:-1 ,RTHK31
+http://156.238.248.80/2099.php?id=571
+#EXTINF:-1 ,RTHK32
+http://156.238.248.80/2099.php?id=572
+#EXTINF:-1 ,CCTV1港澳版
+http://156.238.248.80/2099.php?id=573
+#EXTINF:-1 ,香港32台
+http://156.238.248.80/2099.php?id=574
+#EXTINF:-1 ,TVB星河3
+http://156.238.248.80/2099.php?id=575
+#EXTINF:-1 ,亚洲武侠
+http://156.238.248.80/2099.php?id=576
+#EXTINF:-1 ,====== 粤港,#genre# ======
+http://14/14.m3u8
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=577
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=578
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=579
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=580
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=581
+#EXTINF:-1 ,明珠台
+http://156.238.248.80/2099.php?id=582
+#EXTINF:-1 ,TVB Plus
+http://156.238.248.80/2099.php?id=583
+#EXTINF:-1 ,TVB Plus
+http://156.238.248.80/2099.php?id=584
+#EXTINF:-1 ,无线新闻
+http://156.238.248.80/2099.php?id=585
+#EXTINF:-1 ,TVB星河
+http://156.238.248.80/2099.php?id=586
+#EXTINF:-1 ,华丽翡翠台
+http://156.238.248.80/2099.php?id=587
+#EXTINF:-1 ,澳视澳门
+http://156.238.248.80/2099.php?id=588
+#EXTINF:-1 ,广东珠江
+http://156.238.248.80/2099.php?id=589
+#EXTINF:-1 ,广东体育
+http://156.238.248.80/2099.php?id=590
+#EXTINF:-1 ,广州综合
+http://156.238.248.80/2099.php?id=591
+#EXTINF:-1 ,广州综合
+http://156.238.248.80/2099.php?id=592
+#EXTINF:-1 ,====== smt,#genre# ======
+http://15/15.m3u8
+#EXTINF:-1 ,翡翠台
+http://156.238.248.80/2099.php?id=593
+#EXTINF:-1 ,明珠台
+http://156.238.248.80/2099.php?id=594
+#EXTINF:-1 ,无线新闻
+http://156.238.248.80/2099.php?id=595
+#EXTINF:-1 ,TVBPLUS
+http://156.238.248.80/2099.php?id=596
+#EXTINF:-1 ,ViuTV
+http://156.238.248.80/2099.php?id=597
+#EXTINF:-1 ,ViuTV 6
+http://156.238.248.80/2099.php?id=598
+#EXTINF:-1 ,RTHK 31
+http://156.238.248.80/2099.php?id=599
+#EXTINF:-1 ,RTHK 32
+http://156.238.248.80/2099.php?id=600
+#EXTINF:-1 ,HOY TV
+http://156.238.248.80/2099.php?id=601
+#EXTINF:-1 ,凤凰中文
+http://156.238.248.80/2099.php?id=602
+#EXTINF:-1 ,凤凰资讯
+http://156.238.248.80/2099.php?id=603
+#EXTINF:-1 ,凤凰香港
+http://156.238.248.80/2099.php?id=604
+#EXTINF:-1 ,台视 HD
+http://156.238.248.80/2099.php?id=605
+#EXTINF:-1 ,台视新闻
+http://156.238.248.80/2099.php?id=606
+#EXTINF:-1 ,台视综合
+http://156.238.248.80/2099.php?id=607
+#EXTINF:-1 ,中视 HD
+http://156.238.248.80/2099.php?id=608
+#EXTINF:-1 ,中视新闻
+http://156.238.248.80/2099.php?id=609
+#EXTINF:-1 ,中视经典
+http://156.238.248.80/2099.php?id=610
+#EXTINF:-1 ,华视 HD
+http://156.238.248.80/2099.php?id=611
+#EXTINF:-1 ,公视 HD
+http://156.238.248.80/2099.php?id=612
+#EXTINF:-1 ,公视台语台
+http://156.238.248.80/2099.php?id=613
+#EXTINF:-1 ,三立台湾台
+http://156.238.248.80/2099.php?id=614
+#EXTINF:-1 ,三立都会台
+http://156.238.248.80/2099.php?id=615
+#EXTINF:-1 ,三立综合台
+http://156.238.248.80/2099.php?id=616
+#EXTINF:-1 ,三立戏剧台
+http://156.238.248.80/2099.php?id=617
+#EXTINF:-1 ,东森新闻台
+http://156.238.248.80/2099.php?id=618
+#EXTINF:-1 ,东森财经新闻台
+http://156.238.248.80/2099.php?id=619
+#EXTINF:-1 ,东森综合台
+http://156.238.248.80/2099.php?id=620
+#EXTINF:-1 ,东森戏剧台
+http://156.238.248.80/2099.php?id=621
+#EXTINF:-1 ,东森电影台
+http://156.238.248.80/2099.php?id=622
+#EXTINF:-1 ,东森洋片台
+http://156.238.248.80/2099.php?id=623
+#EXTINF:-1 ,东森幼幼台
+http://156.238.248.80/2099.php?id=624
+#EXTINF:-1 ,东森超视
+http://156.238.248.80/2099.php?id=625
+#EXTINF:-1 ,TVBS HD
+http://156.238.248.80/2099.php?id=626
+#EXTINF:-1 ,TVBS 新闻台
+http://156.238.248.80/2099.php?id=627
+#EXTINF:-1 ,TVBS 欢乐台
+http://156.238.248.80/2099.php?id=628
+#EXTINF:-1 ,民视 HD
+http://156.238.248.80/2099.php?id=629
+#EXTINF:-1 ,民视新闻台
+http://156.238.248.80/2099.php?id=630
+#EXTINF:-1 ,民视台湾台
+http://156.238.248.80/2099.php?id=631
+#EXTINF:-1 ,中天综合
+http://156.238.248.80/2099.php?id=632
+#EXTINF:-1 ,中天娱乐
+http://156.238.248.80/2099.php?id=633
+#EXTINF:-1 ,中天亚洲
+http://156.238.248.80/2099.php?id=634
+#EXTINF:-1 ,中天新闻
+http://156.238.248.80/2099.php?id=635
+#EXTINF:-1 ,寰宇新闻台
+http://156.238.248.80/2099.php?id=636
+#EXTINF:-1 ,寰宇财经台
+http://156.238.248.80/2099.php?id=637
+#EXTINF:-1 ,八大第一台
+http://156.238.248.80/2099.php?id=638
+#EXTINF:-1 ,八大综合台
+http://156.238.248.80/2099.php?id=639
+#EXTINF:-1 ,八大戏剧台
+http://156.238.248.80/2099.php?id=640
+#EXTINF:-1 ,八大娱乐台
+http://156.238.248.80/2099.php?id=641
+#EXTINF:-1 ,纬来体育
+http://156.238.248.80/2099.php?id=642
+#EXTINF:-1 ,纬来精彩
+http://156.238.248.80/2099.php?id=643
+#EXTINF:-1 ,纬来日本
+http://156.238.248.80/2099.php?id=644
+#EXTINF:-1 ,纬来电影
+http://156.238.248.80/2099.php?id=645
+#EXTINF:-1 ,纬来综合
+http://156.238.248.80/2099.php?id=646
+#EXTINF:-1 ,纬来育乐
+http://156.238.248.80/2099.php?id=647
+#EXTINF:-1 ,爱尔达综合台
+http://156.238.248.80/2099.php?id=648
+#EXTINF:-1 ,爱尔达影剧台
+http://156.238.248.80/2099.php?id=649
+#EXTINF:-1 ,爱尔达体育1台
+http://156.238.248.80/2099.php?id=650
+#EXTINF:-1 ,爱尔达体育2台
+http://156.238.248.80/2099.php?id=651
+#EXTINF:-1 ,爱尔达体育3台
+http://156.238.248.80/2099.php?id=652
+#EXTINF:-1 ,非凡新闻
+http://156.238.248.80/2099.php?id=653
+#EXTINF:-1 ,年代新闻
+http://156.238.248.80/2099.php?id=654
+#EXTINF:-1 ,龙华戏剧
+http://156.238.248.80/2099.php?id=655
+#EXTINF:-1 ,龙华偶像
+http://156.238.248.80/2099.php?id=656
+#EXTINF:-1 ,龙华电影
+http://156.238.248.80/2099.php?id=657
+#EXTINF:-1 ,龙华洋片
+http://156.238.248.80/2099.php?id=658
+#EXTINF:-1 ,龙华经典
+http://156.238.248.80/2099.php?id=659
+#EXTINF:-1 ,靖天国际
+http://156.238.248.80/2099.php?id=660
+#EXTINF:-1 ,靖天卡通
+http://156.238.248.80/2099.php?id=661
+#EXTINF:-1 ,大愛電視
+http://156.238.248.80/2099.php?id=662
+#EXTINF:-1 ,大愛二台
+http://156.238.248.80/2099.php?id=663
+#EXTINF:-1 ,EYE 旅游台
+http://156.238.248.80/2099.php?id=664
+#EXTINF:-1 ,EYE 戏剧台
+http://156.238.248.80/2099.php?id=665
+#EXTINF:-1 ,亚洲美食
+http://156.238.248.80/2099.php?id=666
+#EXTINF:-1 ,美食星球
+http://156.238.248.80/2099.php?id=667
+#EXTINF:-1 ,TLC旅遊生活
+http://156.238.248.80/2099.php?id=668
+#EXTINF:-1 ,亚洲旅游台
+http://156.238.248.80/2099.php?id=669
+#EXTINF:-1 ,Arirang
+http://156.238.248.80/2099.php?id=670
+#EXTINF:-1 ,AXN Taiwan
+http://156.238.248.80/2099.php?id=671
+#EXTINF:-1 ,MTV Live
+http://156.238.248.80/2099.php?id=672
+#EXTINF:-1 ,HBO_HD
+http://156.238.248.80/2099.php?id=673
+#EXTINF:-1 ,HBO_HITS
+http://156.238.248.80/2099.php?id=674
+#EXTINF:-1 ,CINEMAX
+http://156.238.248.80/2099.php?id=675
+#EXTINF:-1 ,好萊塢電影台
+http://156.238.248.80/2099.php?id=676
+#EXTINF:-1 ,卫视电影台
+http://156.238.248.80/2099.php?id=677
+#EXTINF:-1 ,龙祥时代
+http://156.238.248.80/2099.php?id=678
+#EXTINF:-1 ,美亚电影
+http://156.238.248.80/2099.php?id=679
+#EXTINF:-1 ,華藝綜合
+http://156.238.248.80/2099.php?id=680
+#EXTINF:-1 ,博斯运动一台
+http://156.238.248.80/2099.php?id=681
+#EXTINF:-1 ,博斯运动二台
+http://156.238.248.80/2099.php?id=682
+#EXTINF:-1 ,博斯高球一台
+http://156.238.248.80/2099.php?id=683
+#EXTINF:-1 ,博斯高球二台
+http://156.238.248.80/2099.php?id=684
+#EXTINF:-1 ,博斯网球台
+http://156.238.248.80/2099.php?id=685
+#EXTINF:-1 ,博斯无限台
+http://156.238.248.80/2099.php?id=686
+#EXTINF:-1 ,好消息 2
+http://156.238.248.80/2099.php?id=687
+#EXTINF:-1 ,CCTV-1 综合
+http://156.238.248.80/2099.php?id=688
+#EXTINF:-1 ,CCTV-2 财经
+http://156.238.248.80/2099.php?id=689
+#EXTINF:-1 ,CCTV-3 综艺
+http://156.238.248.80/2099.php?id=690
+#EXTINF:-1 ,CCTV-4 中文国际
+http://156.238.248.80/2099.php?id=691
+#EXTINF:-1 ,CCTV-4 中文国际
+http://156.238.248.80/2099.php?id=692
+#EXTINF:-1 ,CCTV-5 体育
+http://156.238.248.80/2099.php?id=693
+#EXTINF:-1 ,CCTV-6 电影
+http://156.238.248.80/2099.php?id=694
+#EXTINF:-1 ,CCTV-7 国防军事
+http://156.238.248.80/2099.php?id=695
+#EXTINF:-1 ,CCTV-8 电视剧
+http://156.238.248.80/2099.php?id=696
+#EXTINF:-1 ,CCTV-9 记录
+http://156.238.248.80/2099.php?id=697
+#EXTINF:-1 ,CCTV-10 科教
+http://156.238.248.80/2099.php?id=698
+#EXTINF:-1 ,CCTV-11 戏曲
+http://156.238.248.80/2099.php?id=699
+#EXTINF:-1 ,CCTV-12 社会与法
+http://156.238.248.80/2099.php?id=700
+#EXTINF:-1 ,CCTV-13 新闻
+http://156.238.248.80/2099.php?id=701
+#EXTINF:-1 ,CCTV-14 少儿
+http://156.238.248.80/2099.php?id=702
+#EXTINF:-1 ,CCTV-15 音乐
+http://156.238.248.80/2099.php?id=703
+#EXTINF:-1 ,CCTV-16 奥林匹克
+http://156.238.248.80/2099.php?id=704
+#EXTINF:-1 ,CCTV-17 农业农村
+http://156.238.248.80/2099.php?id=705
+#EXTINF:-1 ,CCTV-5+ 体育赛事
+http://156.238.248.80/2099.php?id=706
+#EXTINF:-1 ,湖南卫视
+http://156.238.248.80/2099.php?id=707
+#EXTINF:-1 ,浙江卫视
+http://156.238.248.80/2099.php?id=708
+#EXTINF:-1 ,江苏卫视
+http://156.238.248.80/2099.php?id=709
+#EXTINF:-1 ,东方卫视
+http://156.238.248.80/2099.php?id=710
+#EXTINF:-1 ,北京卫视
+http://156.238.248.80/2099.php?id=711
+#EXTINF:-1 ,深圳卫视
+http://156.238.248.80/2099.php?id=712
+#EXTINF:-1 ,广东卫视
+http://156.238.248.80/2099.php?id=713
+#EXTINF:-1 ,大湾区卫视
+http://156.238.248.80/2099.php?id=714
+#EXTINF:-1 ,珠江台
+http://156.238.248.80/2099.php?id=715
+#EXTINF:-1 ,东南卫视
+http://156.238.248.80/2099.php?id=716
+#EXTINF:-1 ,广西卫视
+http://156.238.248.80/2099.php?id=717
+#EXTINF:-1 ,湖北卫视
+http://156.238.248.80/2099.php?id=718
+#EXTINF:-1 ,四川卫视
+http://156.238.248.80/2099.php?id=719
+#EXTINF:-1 ,CGTN
+http://156.238.248.80/2099.php?id=720
+#EXTINF:-1 ,CCTV-6
+http://156.238.248.80/2099.php?id=721
+#EXTINF:-1 ,AXN Taiwan
+http://156.238.248.80/2099.php?id=722
+#EXTINF:-1 ,HBO_HD
+http://156.238.248.80/2099.php?id=723
+#EXTINF:-1 ,HBO_HITS
+http://156.238.248.80/2099.php?id=724
+#EXTINF:-1 ,CINEMAX
+http://156.238.248.80/2099.php?id=725
+#EXTINF:-1 ,好萊塢電影台
+http://156.238.248.80/2099.php?id=726
+#EXTINF:-1 ,东森电影
+http://156.238.248.80/2099.php?id=727
+#EXTINF:-1 ,东森洋片
+http://156.238.248.80/2099.php?id=728
+#EXTINF:-1 ,龙华电影
+http://156.238.248.80/2099.php?id=729
+#EXTINF:-1 ,龙华洋片
+http://156.238.248.80/2099.php?id=730
+#EXTINF:-1 ,龙祥时代
+http://156.238.248.80/2099.php?id=731
+#EXTINF:-1 ,美亚电影
+http://156.238.248.80/2099.php?id=732
+#EXTINF:-1 ,卫视电影台
+http://156.238.248.80/2099.php?id=733
+#EXTINF:-1 ,天映频道
+http://156.238.248.80/2099.php?id=734
+#EXTINF:-1 ,天映频道
+http://156.238.248.80/2099.php?id=735
+#EXTINF:-1 ,天映经典
+http://156.238.248.80/2099.php?id=736
+#EXTINF:-1 ,Animax
+http://156.238.248.80/2099.php?id=737
+#EXTINF:-1 ,Movies Now HD
+http://156.238.248.80/2099.php?id=738
+#EXTINF:-1 ,Star Movies HD
+http://156.238.248.80/2099.php?id=739
+#EXTINF:-1 ,Hits
+http://156.238.248.80/2099.php?id=740
+#EXTINF:-1 ,Warner TV
+http://156.238.248.80/2099.php?id=741
+#EXTINF:-1 ,HBO HD
+http://156.238.248.80/2099.php?id=742
+#EXTINF:-1 ,HBO Signature
+http://156.238.248.80/2099.php?id=743
+#EXTINF:-1 ,HBO Family
+http://156.238.248.80/2099.php?id=744
+#EXTINF:-1 ,HBO Hits
+http://156.238.248.80/2099.php?id=745
+#EXTINF:-1 ,Cinemax
+http://156.238.248.80/2099.php?id=746
+#EXTINF:-1 ,Dreamworks
+http://156.238.248.80/2099.php?id=747
+#EXTINF:-1 ,SCM
+http://156.238.248.80/2099.php?id=748
+#EXTINF:-1 ,Thrill
+http://156.238.248.80/2099.php?id=749
+#EXTINF:-1 ,Hits Movie
+http://156.238.248.80/2099.php?id=750
+#EXTINF:-1 ,One
+http://156.238.248.80/2099.php?id=751
+#EXTINF:-1 ,tvN Movie
+http://156.238.248.80/2099.php?id=752
+#EXTINF:-1 ,Axn HD
+http://156.238.248.80/2099.php?id=753
+#EXTINF:-1 ,Paramount Network
+http://156.238.248.80/2099.php?id=754
+#EXTINF:-1 ,Astrol Kplus
+http://156.238.248.80/2099.php?id=755
+#EXTINF:-1 ,Rock Actions
+http://156.238.248.80/2099.php?id=756
+#EXTINF:-1 ,Rock Entertainment
+http://156.238.248.80/2099.php?id=757
+#EXTINF:-1 ,Natgeo_HD
+http://156.238.248.80/2099.php?id=758
+#EXTINF:-1 ,NatGeo_Wild HD
+http://156.238.248.80/2099.php?id=759
+#EXTINF:-1 ,Animal_Planet
+http://156.238.248.80/2099.php?id=760
+#EXTINF:-1 ,Discovery Asia
+http://156.238.248.80/2099.php?id=761
+#EXTINF:-1 ,CI
+http://156.238.248.80/2099.php?id=762
+#EXTINF:-1 ,Asia Travel
+http://156.238.248.80/2099.php?id=763
+#EXTINF:-1 ,Discovery HD
+http://156.238.248.80/2099.php?id=764
+#EXTINF:-1 ,亚洲美食
+http://156.238.248.80/2099.php?id=765
+#EXTINF:-1 ,美食星球
+http://156.238.248.80/2099.php?id=766
+#EXTINF:-1 ,亚洲TLC
+http://156.238.248.80/2099.php?id=767
+#EXTINF:-1 ,NatGeo HD
+http://156.238.248.80/2099.php?id=768
+#EXTINF:-1 ,Fashion TV
+http://156.238.248.80/2099.php?id=769
+#EXTINF:-1 ,History
+http://156.238.248.80/2099.php?id=770
+#EXTINF:-1 ,BBC Earth HD
+http://156.238.248.80/2099.php?id=771
+#EXTINF:-1 ,BBC Earth Lifestyle
+http://156.238.248.80/2099.php?id=772
+#EXTINF:-1 ,MTV Live
+http://156.238.248.80/2099.php?id=773
+#EXTINF:-1 ,NatGeo Wild HD
+http://156.238.248.80/2099.php?id=774
+#EXTINF:-1 ,Animal Planet (Eng)
+http://156.238.248.80/2099.php?id=775
+#EXTINF:-1 ,TLC
+http://156.238.248.80/2099.php?id=776
+#EXTINF:-1 ,Foodnetwork Hd
+http://156.238.248.80/2099.php?id=777
+#EXTINF:-1 ,HGTV
+http://156.238.248.80/2099.php?id=778
+#EXTINF:-1 ,亚洲旅游台
+http://156.238.248.80/2099.php?id=779
+#EXTINF:-1 ,Skynews
+http://156.238.248.80/2099.php?id=780
+#EXTINF:-1 ,ABC News
+http://156.238.248.80/2099.php?id=781
+#EXTINF:-1 ,东森财经新闻
+http://156.238.248.80/2099.php?id=782
+#EXTINF:-1 ,CBS HD
+http://156.238.248.80/2099.php?id=783
+#EXTINF:-1 ,CBSN HD
+http://156.238.248.80/2099.php?id=784
+#EXTINF:-1 ,France 24
+http://156.238.248.80/2099.php?id=785
+#EXTINF:-1 ,DW (Deutsch)
+http://156.238.248.80/2099.php?id=786
+#EXTINF:-1 ,NHK World
+http://156.238.248.80/2099.php?id=787
+#EXTINF:-1 ,Fox News
+http://156.238.248.80/2099.php?id=788
+#EXTINF:-1 ,CGTN
+http://156.238.248.80/2099.php?id=789
+#EXTINF:-1 ,CNN International
+http://156.238.248.80/2099.php?id=790
+#EXTINF:-1 ,CNN backup
+http://156.238.248.80/2099.php?id=791
+#EXTINF:-1 ,CNBC
+http://156.238.248.80/2099.php?id=792
+#EXTINF:-1 ,CNA
+http://156.238.248.80/2099.php?id=793
+#EXTINF:-1 ,BBC World News
+http://156.238.248.80/2099.php?id=794
+#EXTINF:-1 ,BBC World News
+http://156.238.248.80/2099.php?id=795
+#EXTINF:-1 ,Bloomberg News
+http://156.238.248.80/2099.php?id=796
+#EXTINF:-1 ,Al-Jazeera
+http://156.238.248.80/2099.php?id=797
+#EXTINF:-1 ,Baby TV Eng
+http://156.238.248.80/2099.php?id=798
+#EXTINF:-1 ,CBeebies
+http://156.238.248.80/2099.php?id=799
+#EXTINF:-1 ,Kids TV
+http://156.238.248.80/2099.php?id=800
+#EXTINF:-1 ,Momo TV
+http://156.238.248.80/2099.php?id=801
+#EXTINF:-1 ,Animax
+http://156.238.248.80/2099.php?id=802
+#EXTINF:-1 ,Baby TV
+http://156.238.248.80/2099.php?id=803
+#EXTINF:-1 ,MiaoMi
+http://156.238.248.80/2099.php?id=804
+#EXTINF:-1 ,靖天卡通
+http://156.238.248.80/2099.php?id=805
+#EXTINF:-1 ,东森幼幼
+http://156.238.248.80/2099.php?id=806
+#EXTINF:-1 ,Cartoon Network
+http://156.238.248.80/2099.php?id=807
+#EXTINF:-1 ,Nickelodeon
+http://156.238.248.80/2099.php?id=808
+#EXTINF:-1 ,Nick Jr
+http://156.238.248.80/2099.php?id=809
+#EXTINF:-1 ,Astro Premier League 1
+http://156.238.248.80/2099.php?id=810
+#EXTINF:-1 ,Astro EPL 1 backup
+http://156.238.248.80/2099.php?id=811
+#EXTINF:-1 ,Astro Premier League 2
+http://156.238.248.80/2099.php?id=812
+#EXTINF:-1 ,Astro Grandstand
+http://156.238.248.80/2099.php?id=813
+#EXTINF:-1 ,Astro Football
+http://156.238.248.80/2099.php?id=814
+#EXTINF:-1 ,Astro Sports Plus
+http://156.238.248.80/2099.php?id=815
+#EXTINF:-1 ,Astro Badminton 1
+http://156.238.248.80/2099.php?id=816
+#EXTINF:-1 ,Astro Badminton 2
+http://156.238.248.80/2099.php?id=817
+#EXTINF:-1 ,Astro W-Sports
+http://156.238.248.80/2099.php?id=818
+#EXTINF:-1 ,Supersports 1
+http://156.238.248.80/2099.php?id=819
+#EXTINF:-1 ,Supersports 2
+http://156.238.248.80/2099.php?id=820
+#EXTINF:-1 ,Supersports 3
+http://156.238.248.80/2099.php?id=821
+#EXTINF:-1 ,Supersports 4
+http://156.238.248.80/2099.php?id=822
+#EXTINF:-1 ,WWE
+http://156.238.248.80/2099.php?id=823
+#EXTINF:-1 ,Fight Sports
+http://156.238.248.80/2099.php?id=824
+#EXTINF:-1 ,NBA TV
+http://156.238.248.80/2099.php?id=825
+#EXTINF:-1 ,Astro Cricket
+http://156.238.248.80/2099.php?id=826
+#EXTINF:-1 ,Astro Golf
+http://156.238.248.80/2099.php?id=827
+#EXTINF:-1 ,Tnt Sports 1
+http://156.238.248.80/2099.php?id=828
+#EXTINF:-1 ,TNT Sports 2
+http://156.238.248.80/2099.php?id=829
+#EXTINF:-1 ,TNT Sports 3
+http://156.238.248.80/2099.php?id=830
+#EXTINF:-1 ,TNT Sports 4
+http://156.238.248.80/2099.php?id=831
+#EXTINF:-1 ,Sony Ten 1
+http://156.238.248.80/2099.php?id=832
+#EXTINF:-1 ,Sony Ten 2
+http://156.238.248.80/2099.php?id=833
+#EXTINF:-1 ,Sony Ten 3
+http://156.238.248.80/2099.php?id=834
+#EXTINF:-1 ,SPOTV 1 HD
+http://156.238.248.80/2099.php?id=835
+#EXTINF:-1 ,SPO TV 2
+http://156.238.248.80/2099.php?id=836
+#EXTINF:-1 ,Skysports F1
+http://156.238.248.80/2099.php?id=837
+#EXTINF:-1 ,Skysports Cricket
+http://156.238.248.80/2099.php?id=838
+#EXTINF:-1 ,Skysports EPL
+http://156.238.248.80/2099.php?id=839
+#EXTINF:-1 ,Skysports Main Event
+http://156.238.248.80/2099.php?id=840
+#EXTINF:-1 ,Skysports News
+http://156.238.248.80/2099.php?id=841
+#EXTINF:-1 ,Skysports Mix
+http://156.238.248.80/2099.php?id=842
+#EXTINF:-1 ,CCTV-5 体育频道
+http://156.238.248.80/2099.php?id=843
+#EXTINF:-1 ,CCTV-5+ 体育赛事 HD
+http://156.238.248.80/2099.php?id=844
+#EXTINF:-1 ,爱尔达体育2台
+http://156.238.248.80/2099.php?id=845
+#EXTINF:-1 ,爱尔达体育3台
+http://156.238.248.80/2099.php?id=846
+#EXTINF:-1 ,Rugby Pass TV
+http://156.238.248.80/2099.php?id=847
+#EXTINF:-1 ,RTM Sports HD
+http://156.238.248.80/2099.php?id=848
+#EXTINF:-1 ,Arena
+http://156.238.248.80/2099.php?id=849
+#EXTINF:-1 ,Arena 2
+http://156.238.248.80/2099.php?id=850
+#EXTINF:-1 ,BolaArena 1
+http://156.238.248.80/2099.php?id=851
+#EXTINF:-1 ,BolaArena 2
+http://156.238.248.80/2099.php?id=852
+#EXTINF:-1 ,Astro Beinsports 1
+http://156.238.248.80/2099.php?id=853
+#EXTINF:-1 ,Astro Beinsports 2
+http://156.238.248.80/2099.php?id=854
+#EXTINF:-1 ,Astro Beinsports 3
+http://156.238.248.80/2099.php?id=855
+#EXTINF:-1 ,Channel 5
+http://156.238.248.80/2099.php?id=856
+#EXTINF:-1 ,Channel 8
+http://156.238.248.80/2099.php?id=857
+#EXTINF:-1 ,Suria
+http://156.238.248.80/2099.php?id=858
+#EXTINF:-1 ,Channel U
+http://156.238.248.80/2099.php?id=859
+#EXTINF:-1 ,Vasantham
+http://156.238.248.80/2099.php?id=860
+#EXTINF:-1 ,CNA
+http://156.238.248.80/2099.php?id=861
+#EXTINF:-1 ,CNA backup
+http://156.238.248.80/2099.php?id=862
+#EXTINF:-1 ,MeWatch Ch 5
+http://156.238.248.80/2099.php?id=863
+#EXTINF:-1 ,MeWatch Ch 8
+http://156.238.248.80/2099.php?id=864
+#EXTINF:-1 ,MeWatch Ch U
+http://156.238.248.80/2099.php?id=865
+#EXTINF:-1 ,MeWatch Suria
+http://156.238.248.80/2099.php?id=866
+#EXTINF:-1 ,MeWatch Vasantham
+http://156.238.248.80/2099.php?id=867
+#EXTINF:-1 ,MeWatch CNA
+http://156.238.248.80/2099.php?id=868
+#EXTINF:-1 ,TV1
+http://156.238.248.80/2099.php?id=869
+#EXTINF:-1 ,TV1 backup
+http://156.238.248.80/2099.php?id=870
+#EXTINF:-1 ,TV2
+http://156.238.248.80/2099.php?id=871
+#EXTINF:-1 ,TV3
+http://156.238.248.80/2099.php?id=872
+#EXTINF:-1 ,TV3 SD
+http://156.238.248.80/2099.php?id=873
+#EXTINF:-1 ,NTV7
+http://156.238.248.80/2099.php?id=874
+#EXTINF:-1 ,TV8
+http://156.238.248.80/2099.php?id=875
+#EXTINF:-1 ,TV9
+http://156.238.248.80/2099.php?id=876
+#EXTINF:-1 ,Ria
+http://156.238.248.80/2099.php?id=877
+#EXTINF:-1 ,Ria-3
+http://156.238.248.80/2099.php?id=878
+#EXTINF:-1 ,Al-Hijrah
+http://156.238.248.80/2099.php?id=879
+#EXTINF:-1 ,Al-Hijrah backup
+http://156.238.248.80/2099.php?id=880
+#EXTINF:-1 ,Awani
+http://156.238.248.80/2099.php?id=881
+#EXTINF:-1 ,Bernama
+http://156.238.248.80/2099.php?id=882
+#EXTINF:-1 ,Prima
+http://156.238.248.80/2099.php?id=883
+#EXTINF:-1 ,Prima backup
+http://156.238.248.80/2099.php?id=884
+#EXTINF:-1 ,Prima backup 2
+http://156.238.248.80/2099.php?id=885
+#EXTINF:-1 ,Ceria
+http://156.238.248.80/2099.php?id=886
+#EXTINF:-1 ,Astro MTV
+http://156.238.248.80/2099.php?id=887
+#EXTINF:-1 ,Mecca Live HD
+http://156.238.248.80/2099.php?id=888
+#EXTINF:-1 ,Madinah HD
+http://156.238.248.80/2099.php?id=889
+#EXTINF:-1 ,Oasis
+http://156.238.248.80/2099.php?id=890
+#EXTINF:-1 ,HBO HD
+http://156.238.248.80/2099.php?id=891
+#EXTINF:-1 ,HBO Signature
+http://156.238.248.80/2099.php?id=892
+#EXTINF:-1 ,HBO Hits
+http://156.238.248.80/2099.php?id=893
+#EXTINF:-1 ,NatGeo Wild HD
+http://156.238.248.80/2099.php?id=894
+#EXTINF:-1 ,Cartoon Network
+http://156.238.248.80/2099.php?id=895
+#EXTINF:-1 ,Nickelodeon
+http://156.238.248.80/2099.php?id=896
+#EXTINF:-1 ,Nick Jr
+http://156.238.248.80/2099.php?id=897
+#EXTINF:-1 ,Dreamworks
+http://156.238.248.80/2099.php?id=898
+#EXTINF:-1 ,Siar
+http://156.238.248.80/2099.php?id=899
+#EXTINF:-1 ,Citra
+http://156.238.248.80/2099.php?id=900
+#EXTINF:-1 ,Citra backup
+http://156.238.248.80/2099.php?id=901
+#EXTINF:-1 ,Sensasi
+http://156.238.248.80/2099.php?id=902
+#EXTINF:-1 ,Aura
+http://156.238.248.80/2099.php?id=903
+#EXTINF:-1 ,Rania
+http://156.238.248.80/2099.php?id=904
+#EXTINF:-1 ,KBS World
+http://156.238.248.80/2099.php?id=905
+#EXTINF:-1 ,Boo
+http://156.238.248.80/2099.php?id=906
+#EXTINF:-1 ,Awesome TV
+http://156.238.248.80/2099.php?id=907
+#EXTINF:-1 ,Astro Sonypix
+http://156.238.248.80/2099.php?id=908
+#EXTINF:-1 ,Sony HD
+http://156.238.248.80/2099.php?id=909
+#EXTINF:-1 ,TvN
+http://156.238.248.80/2099.php?id=910
+#EXTINF:-1 ,AEC
+http://156.238.248.80/2099.php?id=911
+#EXTINF:-1 ,华丽台 HD （Wah Lai Toi）
+http://156.238.248.80/2099.php?id=912
+#EXTINF:-1 ,欢喜台 HD （Hua Hee Tai）
+http://156.238.248.80/2099.php?id=913
+#EXTINF:-1 ,Astro QJ
+http://156.238.248.80/2099.php?id=914
+#EXTINF:-1 ,TVB Jade
+http://156.238.248.80/2099.php?id=915
+#EXTINF:-1 ,TVB Asia
+http://156.238.248.80/2099.php?id=916
+#EXTINF:-1 ,TVB Entertainment
+http://156.238.248.80/2099.php?id=917
+#EXTINF:-1 ,TVB Classic
+http://156.238.248.80/2099.php?id=918
+#EXTINF:-1 ,AOD
+http://156.238.248.80/2099.php?id=919
+#EXTINF:-1 ,One
+http://156.238.248.80/2099.php?id=920
+#EXTINF:-1 ,TVB 星河台 Xing He
+http://156.238.248.80/2099.php?id=921
+#EXTINF:-1 ,爱奇艺 iQiyi
+http://156.238.248.80/2099.php?id=922
+#EXTINF:-1 ,Animal Planet (Eng)
+http://156.238.248.80/2099.php?id=923
+#EXTINF:-1 ,tvN Movie
+http://156.238.248.80/2099.php?id=924
+#EXTINF:-1 ,CNN backup
+http://156.238.248.80/2099.php?id=925
+#EXTINF:-1 ,Celestial Classic
+http://156.238.248.80/2099.php?id=926
+#EXTINF:-1 ,CNBC
+http://156.238.248.80/2099.php?id=927
+#EXTINF:-1 ,TLC
+http://156.238.248.80/2099.php?id=928
+#EXTINF:-1 ,CNA
+http://156.238.248.80/2099.php?id=929
+#EXTINF:-1 ,BBC World News
+http://156.238.248.80/2099.php?id=930
+#EXTINF:-1 ,Foodnetwork Hd
+http://156.238.248.80/2099.php?id=931
+#EXTINF:-1 ,HGTV
+http://156.238.248.80/2099.php?id=932
+#EXTINF:-1 ,Goshop
+http://156.238.248.80/2099.php?id=933
+#EXTINF:-1 ,Celestial Movies HD
+http://156.238.248.80/2099.php?id=934
+#EXTINF:-1 ,Axn HD
+http://156.238.248.80/2099.php?id=935
+#EXTINF:-1 ,Paramount Network
+http://156.238.248.80/2099.php?id=936
+#EXTINF:-1 ,Astrol Kplus
+http://156.238.248.80/2099.php?id=937
+#EXTINF:-1 ,AFC 亚洲旅游台
+http://156.238.248.80/2099.php?id=938
+#EXTINF:-1 ,Rock Actions
+http://156.238.248.80/2099.php?id=939
+#EXTINF:-1 ,Bloomberg News
+http://156.238.248.80/2099.php?id=940
+#EXTINF:-1 ,Al-Jazeera
+http://156.238.248.80/2099.php?id=941
+#EXTINF:-1 ,Rock Entertainment
+http://156.238.248.80/2099.php?id=942
+#EXTINF:-1 ,RTM Sports HD
+http://156.238.248.80/2099.php?id=943
+#EXTINF:-1 ,Arena
+http://156.238.248.80/2099.php?id=944
+#EXTINF:-1 ,Arena 2
+http://156.238.248.80/2099.php?id=945
+#EXTINF:-1 ,BolaArena 1
+http://156.238.248.80/2099.php?id=946
+#EXTINF:-1 ,BolaArena 2
+http://156.238.248.80/2099.php?id=947
+#EXTINF:-1 ,Astro LOL
+http://156.238.248.80/2099.php?id=948
+#EXTINF:-1 ,Astro Rusi
+http://156.238.248.80/2099.php?id=949
+#EXTINF:-1 ,WION
+http://156.238.248.80/2099.php?id=950
+#EXTINF:-1 ,RTM Asean
+http://156.238.248.80/2099.php?id=951
+#EXTINF:-1 ,TVRI National
+http://156.238.248.80/2099.php?id=952
+#EXTINF:-1 ,RCTI
+http://156.238.248.80/2099.php?id=953
+#EXTINF:-1 ,Kompass TV
+http://156.238.248.80/2099.php?id=954
+#EXTINF:-1 ,Berita Satu
+http://156.238.248.80/2099.php?id=955
+#EXTINF:-1 ,Indosiar HD
+http://156.238.248.80/2099.php?id=956
+#EXTINF:-1 ,AnTV
+http://156.238.248.80/2099.php?id=957
+#EXTINF:-1 ,MNC TV
+http://156.238.248.80/2099.php?id=958
+#EXTINF:-1 ,Trans 7
+http://156.238.248.80/2099.php?id=959
+#EXTINF:-1 ,Transtv
+http://156.238.248.80/2099.php?id=960
+#EXTINF:-1 ,JTV
+http://156.238.248.80/2099.php?id=961
+#EXTINF:-1 ,Metro TV
+http://156.238.248.80/2099.php?id=962
+#EXTINF:-1 ,Cinemax
+http://156.238.248.80/2099.php?id=963
+#EXTINF:-1 ,SCTV
+http://156.238.248.80/2099.php?id=964
+#EXTINF:-1 ,Tvone
+http://156.238.248.80/2099.php?id=965
+#EXTINF:-1 ,TVMU
+http://156.238.248.80/2099.php?id=966
+#EXTINF:-1 ,GTV
+http://156.238.248.80/2099.php?id=967
+#EXTINF:-1 ,RTV
+http://156.238.248.80/2099.php?id=968
+#EXTINF:-1 ,Jak TV
+http://156.238.248.80/2099.php?id=969
+#EXTINF:-1 ,iNews TV
+http://156.238.248.80/2099.php?id=970
+#EXTINF:-1 ,Daai TV
+http://156.238.248.80/2099.php?id=971
+#EXTINF:-1 ,Net TV
+http://156.238.248.80/2099.php?id=972
+#EXTINF:-1 ,Animax
+http://156.238.248.80/2099.php?id=973
+#EXTINF:-1 ,EWTN
+http://156.238.248.80/2099.php?id=974
+#EXTINF:-1 ,AlQuran AlKareem
+http://156.238.248.80/2099.php?id=975
+#EXTINF:-1 ,Tawaf TV
+http://156.238.248.80/2099.php?id=976
+#EXTINF:-1 ,Vision Prime
+http://156.238.248.80/2099.php?id=977
+#EXTINF:-1 ,Muslim TV
+http://156.238.248.80/2099.php?id=978
+#EXTINF:-1 ,Music TV
+http://156.238.248.80/2099.php?id=979
+#EXTINF:-1 ,Lifestyle&Fashion
+http://156.238.248.80/2099.php?id=980
+#EXTINF:-1 ,Entertain
+http://156.238.248.80/2099.php?id=981
+#EXTINF:-1 ,Hits
+http://156.238.248.80/2099.php?id=982
+#EXTINF:-1 ,Warner TV
+http://156.238.248.80/2099.php?id=983
+#EXTINF:-1 ,SCM
+http://156.238.248.80/2099.php?id=984
+#EXTINF:-1 ,Thrill
+http://156.238.248.80/2099.php?id=985
+#EXTINF:-1 ,Fight Sports
+http://156.238.248.80/2099.php?id=986
+#EXTINF:-1 ,Hits Movie
+http://156.238.248.80/2099.php?id=987
+#EXTINF:-1 ,One
+http://156.238.248.80/2099.php?id=988
+#EXTINF:-1 ,tvN Movie
+http://156.238.248.80/2099.php?id=989
+#EXTINF:-1 ,Celestial Movies HD
+http://156.238.248.80/2099.php?id=990
+#EXTINF:-1 ,Rock Actions
+http://156.238.248.80/2099.php?id=991
+#EXTINF:-1 ,Rock Entertainment
+http://156.238.248.80/2099.php?id=992
+#EXTINF:-1 ,Sun TV HD
+http://156.238.248.80/2099.php?id=993
+#EXTINF:-1 ,Star Vijay
+http://156.238.248.80/2099.php?id=994
+#EXTINF:-1 ,Colors Tamil
+http://156.238.248.80/2099.php?id=995
+#EXTINF:-1 ,Sun Music
+http://156.238.248.80/2099.php?id=996
+#EXTINF:-1 ,Astro Sunlife
+http://156.238.248.80/2099.php?id=997
+#EXTINF:-1 ,Astro Vaanavil
+http://156.238.248.80/2099.php?id=998
+#EXTINF:-1 ,Zee Tamil
+http://156.238.248.80/2099.php?id=999
+#EXTINF:-1 ,Zee Business
+http://156.238.248.80/2099.php?id=1000
+#EXTINF:-1 ,News 18 Tamil
+http://156.238.248.80/2099.php?id=1001
+#EXTINF:-1 ,Adithya
+http://156.238.248.80/2099.php?id=1002
+#EXTINF:-1 ,Makkal TV
+http://156.238.248.80/2099.php?id=1003
+#EXTINF:-1 ,Zee Action
+http://156.238.248.80/2099.php?id=1004
+#EXTINF:-1 ,Astro KTV
+http://156.238.248.80/2099.php?id=1005
+#EXTINF:-1 ,Zee TV HD
+http://156.238.248.80/2099.php?id=1006
+#EXTINF:-1 ,Zee Cinema HD
+http://156.238.248.80/2099.php?id=1007
+#EXTINF:-1 ,Color HD
+http://156.238.248.80/2099.php?id=1008
+#EXTINF:-1 ,Starplus HD
+http://156.238.248.80/2099.php?id=1009
+#EXTINF:-1 ,Picture HD
+http://156.238.248.80/2099.php?id=1010
+#EXTINF:-1 ,Zee News
+http://156.238.248.80/2099.php?id=1011
+#EXTINF:-1 ,Asianet
+http://156.238.248.80/2099.php?id=1012
+#EXTINF:-1 ,Asianet News
+http://156.238.248.80/2099.php?id=1013
+#EXTINF:-1 ,Discovery World Tamil
+http://156.238.248.80/2099.php?id=1014
+#EXTINF:-1 ,History Tamil
+http://156.238.248.80/2099.php?id=1015
+#EXTINF:-1 ,NatGeo Tamil
+http://156.238.248.80/2099.php?id=1016
+#EXTINF:-1 ,Natgeo Wild Tamil
+http://156.238.248.80/2099.php?id=1017
+#EXTINF:-1 ,Astro Sonypix
+http://156.238.248.80/2099.php?id=1018
+#EXTINF:-1 ,Discovery Kids Tamil
+http://156.238.248.80/2099.php?id=1019
+#EXTINF:-1 ,Discovery Tamil
+http://156.238.248.80/2099.php?id=1020
+#EXTINF:-1 ,Sony Yay Tamil
+http://156.238.248.80/2099.php?id=1021
+#EXTINF:-1 ,Sun TV India
+http://156.238.248.80/2099.php?id=1022
+#EXTINF:-1 ,Starmaa HD
+http://156.238.248.80/2099.php?id=1023
+#EXTINF:-1 ,Starmaa Movies HD
+http://156.238.248.80/2099.php?id=1024
+#EXTINF:-1 ,Bollyone
+http://156.238.248.80/2099.php?id=1025
+#EXTINF:-1 ,Astro Sunmusic
+http://156.238.248.80/2099.php?id=1026
+#EXTINF:-1 ,Vijay Super
+http://156.238.248.80/2099.php?id=1027
+#EXTINF:-1 ,Vellithirai
+http://156.238.248.80/2099.php?id=1028
+#EXTINF:-1 ,Channel 3 Thailand
+http://156.238.248.80/2099.php?id=1029
+#EXTINF:-1 ,Channel 5 Thailand
+http://156.238.248.80/2099.php?id=1030
+#EXTINF:-1 ,Channel 7 Thailand
+http://156.238.248.80/2099.php?id=1031
+#EXTINF:-1 ,MCOT HD Thailand-1
+http://156.238.248.80/2099.php?id=1032
+#EXTINF:-1 ,PPTV Thailand1
+http://156.238.248.80/2099.php?id=1033
+#EXTINF:-1 ,Thai Thai
+http://156.238.248.80/2099.php?id=1034
+#EXTINF:-1 ,Amarin
+http://156.238.248.80/2099.php?id=1035
+#EXTINF:-1 ,Ch 8
+http://156.238.248.80/2099.php?id=1036
+#EXTINF:-1 ,GmmOne
+http://156.238.248.80/2099.php?id=1037
+#EXTINF:-1 ,Mono
+http://156.238.248.80/2099.php?id=1038
+#EXTINF:-1 ,Thairath
+http://156.238.248.80/2099.php?id=1039
+#EXTINF:-1 ,tpbs
+http://156.238.248.80/2099.php?id=1040
+#EXTINF:-1 ,Workpoint
+http://156.238.248.80/2099.php?id=1041
+#EXTINF:-1 ,Gmm Channel
+http://156.238.248.80/2099.php?id=1042
+#EXTINF:-1 ,Nation
+http://156.238.248.80/2099.php?id=1043
+#EXTINF:-1 ,Tnn24
+http://156.238.248.80/2099.php?id=1044
+#EXTINF:-1 ,Nbt
+http://156.238.248.80/2099.php?id=1045
+#EXTINF:-1 ,New
+http://156.238.248.80/2099.php?id=1046
+#EXTINF:-1 ,TPTV
+http://156.238.248.80/2099.php?id=1047
+#EXTINF:-1 ,BBC 1
+http://156.238.248.80/2099.php?id=1048
+#EXTINF:-1 ,BBC 2
+http://156.238.248.80/2099.php?id=1049
+#EXTINF:-1 ,CBBC
+http://156.238.248.80/2099.php?id=1050
+#EXTINF:-1 ,More4
+http://156.238.248.80/2099.php?id=1051
+#EXTINF:-1 ,Freesports
+http://156.238.248.80/2099.php?id=1052
+#EXTINF:-1 ,Skynews
+http://156.238.248.80/2099.php?id=1053
+#EXTINF:-1 ,Pick TV
+http://156.238.248.80/2099.php?id=1054
+#EXTINF:-1 ,itv 1
+http://156.238.248.80/2099.php?id=1055
+#EXTINF:-1 ,itv 2
+http://156.238.248.80/2099.php?id=1056
+#EXTINF:-1 ,Euronews
+http://156.238.248.80/2099.php?id=1057
+#EXTINF:-1 ,Channel 4
+http://156.238.248.80/2099.php?id=1058
+#EXTINF:-1 ,NatGeo HD
+http://156.238.248.80/2099.php?id=1059
+#EXTINF:-1 ,CBeebies
+http://156.238.248.80/2099.php?id=1060
+#EXTINF:-1 ,History
+http://156.238.248.80/2099.php?id=1061
+#EXTINF:-1 ,Kids TV
+http://156.238.248.80/2099.php?id=1062
+#EXTINF:-1 ,France 24
+http://156.238.248.80/2099.php?id=1063
+#EXTINF:-1 ,DW (Deutsch)
+http://156.238.248.80/2099.php?id=1064
+#EXTINF:-1 ,BBC Earth HD
+http://156.238.248.80/2099.php?id=1065
+#EXTINF:-1 ,BBC Earth Lifestyle
+http://156.238.248.80/2099.php?id=1066
+#EXTINF:-1 ,MTV Live
+http://156.238.248.80/2099.php?id=1067
+#EXTINF:-1 ,Star Movies HD
+http://156.238.248.80/2099.php?id=1068
+#EXTINF:-1 ,NHK World
+http://156.238.248.80/2099.php?id=1069
+#EXTINF:-1 ,Warner TV
+http://156.238.248.80/2099.php?id=1070
+#EXTINF:-1 ,HBO HD
+http://156.238.248.80/2099.php?id=1071
+#EXTINF:-1 ,NatGeo Wild HD
+http://156.238.248.80/2099.php?id=1072
+#EXTINF:-1 ,Nickelodeon
+http://156.238.248.80/2099.php?id=1073
+#EXTINF:-1 ,Nick Jr
+http://156.238.248.80/2099.php?id=1074
+#EXTINF:-1 ,Thrill
+http://156.238.248.80/2099.php?id=1075
+#EXTINF:-1 ,CGTN
+http://156.238.248.80/2099.php?id=1076
+#EXTINF:-1 ,Hits Movie
+http://156.238.248.80/2099.php?id=1077
+#EXTINF:-1 ,Animal Planet (Eng)
+http://156.238.248.80/2099.php?id=1078
+#EXTINF:-1 ,CNBC
+http://156.238.248.80/2099.php?id=1079
+#EXTINF:-1 ,TLC
+http://156.238.248.80/2099.php?id=1080
+#EXTINF:-1 ,BBC World News
+http://156.238.248.80/2099.php?id=1081
+#EXTINF:-1 ,HGTV
+http://156.238.248.80/2099.php?id=1082
+#EXTINF:-1 ,Axn HD
+http://156.238.248.80/2099.php?id=1083
+#EXTINF:-1 ,Skysports F1
+http://156.238.248.80/2099.php?id=1084
+#EXTINF:-1 ,Skysports Cricket
+http://156.238.248.80/2099.php?id=1085
+#EXTINF:-1 ,Bloomberg News
+http://156.238.248.80/2099.php?id=1086
+#EXTINF:-1 ,Skysports EPL
+http://156.238.248.80/2099.php?id=1087
+#EXTINF:-1 ,Skysports Main Event
+http://156.238.248.80/2099.php?id=1088
+#EXTINF:-1 ,Skysports News
+http://156.238.248.80/2099.php?id=1089
+#EXTINF:-1 ,Al-Jazeera
+http://156.238.248.80/2099.php?id=1090
+#EXTINF:-1 ,====== 咪咕,#genre# ======
+http://16/16.m3u8
+#EXTINF:-1 ,赛事咪咕01
+http://156.238.248.80/2099.php?id=1091
+#EXTINF:-1 ,赛事咪咕02
+http://156.238.248.80/2099.php?id=1092
+#EXTINF:-1 ,赛事咪咕03
+http://156.238.248.80/2099.php?id=1093
+#EXTINF:-1 ,赛事咪咕04
+http://156.238.248.80/2099.php?id=1094
+#EXTINF:-1 ,赛事咪咕05
+http://156.238.248.80/2099.php?id=1095
+#EXTINF:-1 ,赛事咪咕06
+http://156.238.248.80/2099.php?id=1096
+#EXTINF:-1 ,赛事咪咕07
+http://156.238.248.80/2099.php?id=1097
+#EXTINF:-1 ,赛事咪咕08
+http://156.238.248.80/2099.php?id=1098
+#EXTINF:-1 ,赛事咪咕09
+http://156.238.248.80/2099.php?id=1099
+#EXTINF:-1 ,赛事咪咕10
+http://156.238.248.80/2099.php?id=1100
+#EXTINF:-1 ,赛事咪咕11
+http://156.238.248.80/2099.php?id=1101
+#EXTINF:-1 ,赛事咪咕12
+http://156.238.248.80/2099.php?id=1102
+#EXTINF:-1 ,赛事咪咕13
+http://156.238.248.80/2099.php?id=1103
+#EXTINF:-1 ,赛事咪咕14
+http://156.238.248.80/2099.php?id=1104
+#EXTINF:-1 ,赛事咪咕15
+http://156.238.248.80/2099.php?id=1105
+#EXTINF:-1 ,赛事咪咕16
+http://156.238.248.80/2099.php?id=1106
+#EXTINF:-1 ,赛事咪咕17
+http://156.238.248.80/2099.php?id=1107
+#EXTINF:-1 ,赛事咪咕18
+http://156.238.248.80/2099.php?id=1108
+#EXTINF:-1 ,赛事咪咕19
+http://156.238.248.80/2099.php?id=1109
+#EXTINF:-1 ,赛事咪咕20
+http://156.238.248.80/2099.php?id=1110
+#EXTINF:-1 ,赛事咪咕21
+http://156.238.248.80/2099.php?id=1111
+#EXTINF:-1 ,赛事咪咕22
+http://156.238.248.80/2099.php?id=1112
+#EXTINF:-1 ,赛事咪咕23
+http://156.238.248.80/2099.php?id=1113
+#EXTINF:-1 ,赛事咪咕24
+http://156.238.248.80/2099.php?id=1114
+#EXTINF:-1 ,赛事咪咕25
+http://156.238.248.80/2099.php?id=1115
+#EXTINF:-1 ,赛事咪咕26
+http://156.238.248.80/2099.php?id=1116
+#EXTINF:-1 ,赛事咪咕27
+http://156.238.248.80/2099.php?id=1117
+#EXTINF:-1 ,赛事咪咕28
+http://156.238.248.80/2099.php?id=1118
+#EXTINF:-1 ,赛事咪咕29
+http://156.238.248.80/2099.php?id=1119
+#EXTINF:-1 ,赛事咪咕30
+http://156.238.248.80/2099.php?id=1120
+#EXTINF:-1 ,赛事咪咕31
+http://156.238.248.80/2099.php?id=1121
+#EXTINF:-1 ,赛事咪咕32
+http://156.238.248.80/2099.php?id=1122
+#EXTINF:-1 ,赛事咪咕4k
+http://156.238.248.80/2099.php?id=1123
+#EXTINF:-1 ,====== 粤广,#genre# ======
+http://17/17.m3u8
+#EXTINF:-1 ,广东卫视
+http://156.238.248.80/2099.php?id=1124
+#EXTINF:-1 ,广东珠江
+http://156.238.248.80/2099.php?id=1125
+#EXTINF:-1 ,广东新闻
+http://156.238.248.80/2099.php?id=1126
+#EXTINF:-1 ,广东民生
+http://156.238.248.80/2099.php?id=1127
+#EXTINF:-1 ,广东体育
+http://156.238.248.80/2099.php?id=1128
+#EXTINF:-1 ,经济科教
+http://156.238.248.80/2099.php?id=1129
+#EXTINF:-1 ,大湾区卫视
+http://156.238.248.80/2099.php?id=1130
+#EXTINF:-1 ,广东影视
+http://156.238.248.80/2099.php?id=1131
+#EXTINF:-1 ,广东少儿
+http://156.238.248.80/2099.php?id=1132
+#EXTINF:-1 ,嘉佳卡通
+http://156.238.248.80/2099.php?id=1133
+#EXTINF:-1 ,广州综合
+http://156.238.248.80/2099.php?id=1134
+#EXTINF:-1 ,广州新闻
+http://156.238.248.80/2099.php?id=1135
+#EXTINF:-1 ,广州法治
+http://156.238.248.80/2099.php?id=1136
+#EXTINF:-1 ,深圳卫视
+http://156.238.248.80/2099.php?id=1137
+#EXTINF:-1 ,深圳都市
+http://156.238.248.80/2099.php?id=1138
+#EXTINF:-1 ,深圳电视剧
+http://156.238.248.80/2099.php?id=1139
+#EXTINF:-1 ,深圳财经生活
+http://156.238.248.80/2099.php?id=1140
+#EXTINF:-1 ,深圳体育健康
+http://156.238.248.80/2099.php?id=1141
+#EXTINF:-1 ,深圳少儿
+http://156.238.248.80/2099.php?id=1142
+#EXTINF:-1 ,深圳宝安
+http://156.238.248.80/2099.php?id=1143
+#EXTINF:-1 ,深圳龙岗
+http://156.238.248.80/2099.php?id=1144
+#EXTINF:-1 ,韶关新闻综合
+http://156.238.248.80/2099.php?id=1145
+#EXTINF:-1 ,韶关绿色生活
+http://156.238.248.80/2099.php?id=1146
+#EXTINF:-1 ,湛江新闻综合
+http://156.238.248.80/2099.php?id=1147
+#EXTINF:-1 ,湛江公共
+http://156.238.248.80/2099.php?id=1148
+#EXTINF:-1 ,揭阳综合
+http://156.238.248.80/2099.php?id=1149
+#EXTINF:-1 ,揭阳生活
+http://156.238.248.80/2099.php?id=1150
+#EXTINF:-1 ,汕尾新闻综合
+http://156.238.248.80/2099.php?id=1151
+#EXTINF:-1 ,汕尾文化生活
+http://156.238.248.80/2099.php?id=1152
+#EXTINF:-1 ,江门综合
+http://156.238.248.80/2099.php?id=1153
+#EXTINF:-1 ,HZTV-1
+http://156.238.248.80/2099.php?id=1154
+#EXTINF:-1 ,HZTV-2
+http://156.238.248.80/2099.php?id=1155
+#EXTINF:-1 ,珠海-1
+http://156.238.248.80/2099.php?id=1156
+#EXTINF:-1 ,肇庆综合
+http://156.238.248.80/2099.php?id=1157
+#EXTINF:-1 ,肇庆生活服务
+http://156.238.248.80/2099.php?id=1158
+#EXTINF:-1 ,河源综合
+http://156.238.248.80/2099.php?id=1159
+#EXTINF:-1 ,河源公共
+http://156.238.248.80/2099.php?id=1160
+#EXTINF:-1 ,清远新闻综合
+http://156.238.248.80/2099.php?id=1161
+#EXTINF:-1 ,云浮综合
+http://156.238.248.80/2099.php?id=1162
+#EXTINF:-1 ,云浮文旅
+http://156.238.248.80/2099.php?id=1163
+#EXTINF:-1 ,茂名综合
+http://156.238.248.80/2099.php?id=1164
+#EXTINF:-1 ,茂名公共
+http://156.238.248.80/2099.php?id=1165
+#EXTINF:-1 ,汕头综合
+http://156.238.248.80/2099.php?id=1166
+#EXTINF:-1 ,汕头经济生活
+http://156.238.248.80/2099.php?id=1167
+#EXTINF:-1 ,汕头文旅体育
+http://156.238.248.80/2099.php?id=1168
+#EXTINF:-1 ,佛山公共
+http://156.238.248.80/2099.php?id=1169
+#EXTINF:-1 ,佛山南海
+http://156.238.248.80/2099.php?id=1170
+#EXTINF:-1 ,佛山顺德
+http://156.238.248.80/2099.php?id=1171
+#EXTINF:-1 ,佛山综合
+http://156.238.248.80/2099.php?id=1172
+#EXTINF:-1 ,东莞新闻综合
+http://156.238.248.80/2099.php?id=1173
+#EXTINF:-1 ,东莞生活资讯
+http://156.238.248.80/2099.php?id=1174
+#EXTINF:-1 ,中山综合
+http://156.238.248.80/2099.php?id=1175
+#EXTINF:-1 ,香山文化
+http://156.238.248.80/2099.php?id=1176
+#EXTINF:-1 ,CCTV-1
+http://156.238.248.80/2099.php?id=1177
+#EXTINF:-1 ,CCTV-2
+http://156.238.248.80/2099.php?id=1178
+#EXTINF:-1 ,CCTV-3
+http://156.238.248.80/2099.php?id=1179
+#EXTINF:-1 ,CCTV-4
+http://156.238.248.80/2099.php?id=1180
+#EXTINF:-1 ,CCTV-5
+http://156.238.248.80/2099.php?id=1181
+#EXTINF:-1 ,CCTV-5+
+http://156.238.248.80/2099.php?id=1182
+#EXTINF:-1 ,CCTV-6
+http://156.238.248.80/2099.php?id=1183
+#EXTINF:-1 ,CCTV-7
+http://156.238.248.80/2099.php?id=1184
+#EXTINF:-1 ,CCTV-8
+http://156.238.248.80/2099.php?id=1185
+#EXTINF:-1 ,CCTV-9
+http://156.238.248.80/2099.php?id=1186
+#EXTINF:-1 ,CCTV-10
+http://156.238.248.80/2099.php?id=1187
+#EXTINF:-1 ,CCTV-11
+http://156.238.248.80/2099.php?id=1188
+#EXTINF:-1 ,CCTV-12
+http://156.238.248.80/2099.php?id=1189
+#EXTINF:-1 ,CCTV-13
+http://156.238.248.80/2099.php?id=1190
+#EXTINF:-1 ,CCTV-14
+http://156.238.248.80/2099.php?id=1191
+#EXTINF:-1 ,CCTV-15
+http://156.238.248.80/2099.php?id=1192
+#EXTINF:-1 ,CCTV-16
+http://156.238.248.80/2099.php?id=1193
+#EXTINF:-1 ,CCTV-17
+http://156.238.248.80/2099.php?id=1194
+#EXTINF:-1 ,CGTN英语
+http://156.238.248.80/2099.php?id=1195
+#EXTINF:-1 ,CGTN西班牙语
+http://156.238.248.80/2099.php?id=1196
+#EXTINF:-1 ,CGTN法语
+http://156.238.248.80/2099.php?id=1197
+#EXTINF:-1 ,CGTN阿拉伯语
+http://156.238.248.80/2099.php?id=1198
+#EXTINF:-1 ,CGTN俄语
+http://156.238.248.80/2099.php?id=1199
+#EXTINF:-1 ,湖南卫视
+http://156.238.248.80/2099.php?id=1200
+#EXTINF:-1 ,浙江卫视
+http://156.238.248.80/2099.php?id=1201
+#EXTINF:-1 ,江苏卫视
+http://156.238.248.80/2099.php?id=1202
+#EXTINF:-1 ,东方卫视
+http://156.238.248.80/2099.php?id=1203
+#EXTINF:-1 ,安徽卫视
+http://156.238.248.80/2099.php?id=1204
+#EXTINF:-1 ,天津卫视
+http://156.238.248.80/2099.php?id=1205
+#EXTINF:-1 ,山东卫视
+http://156.238.248.80/2099.php?id=1206
+#EXTINF:-1 ,江西卫视
+http://156.238.248.80/2099.php?id=1207
+#EXTINF:-1 ,湖北卫视
+http://156.238.248.80/2099.php?id=1208
+#EXTINF:-1 ,辽宁卫视
+http://156.238.248.80/2099.php?id=1209
+#EXTINF:-1 ,黑龙江卫视
+http://156.238.248.80/2099.php?id=1210
+#EXTINF:-1 ,贵州卫视
+http://156.238.248.80/2099.php?id=1211
+#EXTINF:-1 ,四川卫视
+http://156.238.248.80/2099.php?id=1212
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=1213
+#EXTINF:-1 ,云南卫视
+http://156.238.248.80/2099.php?id=1214
+#EXTINF:-1 ,====== 上海,#genre# ======
+http://18/18.m3u8
+#EXTINF:-1 ,东方卫视
+http://156.238.248.80/2099.php?id=1215
+#EXTINF:-1 ,都市频道
+http://156.238.248.80/2099.php?id=1216
+#EXTINF:-1 ,都市剧场
+http://156.238.248.80/2099.php?id=1217
+#EXTINF:-1 ,欢笑剧场
+http://156.238.248.80/2099.php?id=1218
+#EXTINF:-1 ,动漫秀场
+http://156.238.248.80/2099.php?id=1219
+#EXTINF:-1 ,哈哈炫动
+http://156.238.248.80/2099.php?id=1220
+#EXTINF:-1 ,法治天地
+http://156.238.248.80/2099.php?id=1221
+#EXTINF:-1 ,金色学堂
+http://156.238.248.80/2099.php?id=1222
+#EXTINF:-1 ,游戏风云
+http://156.238.248.80/2099.php?id=1223
+#EXTINF:-1 ,生活时尚
+http://156.238.248.80/2099.php?id=1224
+#EXTINF:-1 ,上海教育
+http://156.238.248.80/2099.php?id=1225
+#EXTINF:-1 ,东方财经
+http://156.238.248.80/2099.php?id=1226
+#EXTINF:-1 ,五星体育
+http://156.238.248.80/2099.php?id=1227
+#EXTINF:-1 ,第一财经
+http://156.238.248.80/2099.php?id=1228
+#EXTINF:-1 ,乐游纪实
+http://156.238.248.80/2099.php?id=1229
+#EXTINF:-1 ,CCTV-1综合
+http://156.238.248.80/2099.php?id=1230
+#EXTINF:-1 ,CCTV-2财经
+http://156.238.248.80/2099.php?id=1231
+#EXTINF:-1 ,CCTV-3综艺
+http://156.238.248.80/2099.php?id=1232
+#EXTINF:-1 ,CCTV-4中文国际
+http://156.238.248.80/2099.php?id=1233
+#EXTINF:-1 ,CCTV-5体育
+http://156.238.248.80/2099.php?id=1234
+#EXTINF:-1 ,CCTV-6电影
+http://156.238.248.80/2099.php?id=1235
+#EXTINF:-1 ,CCTV-7国防军事
+http://156.238.248.80/2099.php?id=1236
+#EXTINF:-1 ,CCTV-8电视剧
+http://156.238.248.80/2099.php?id=1237
+#EXTINF:-1 ,CCTV-9纪录
+http://156.238.248.80/2099.php?id=1238
+#EXTINF:-1 ,CCTV-10科教
+http://156.238.248.80/2099.php?id=1239
+#EXTINF:-1 ,CCTV-11戏曲
+http://156.238.248.80/2099.php?id=1240
+#EXTINF:-1 ,CCTV-12社会与法
+http://156.238.248.80/2099.php?id=1241
+#EXTINF:-1 ,CCTV-13新闻
+http://156.238.248.80/2099.php?id=1242
+#EXTINF:-1 ,CCTV-14少儿
+http://156.238.248.80/2099.php?id=1243
+#EXTINF:-1 ,CCTV-15音乐
+http://156.238.248.80/2099.php?id=1244
+#EXTINF:-1 ,CCTV-17农业农村
+http://156.238.248.80/2099.php?id=1245
+#EXTINF:-1 ,欢笑剧场4K
+http://156.238.248.80/2099.php?id=1246
+#EXTINF:-1 ,百事通电影4K
+http://156.238.248.80/2099.php?id=1247
+#EXTINF:-1 ,百事通少儿4K
+http://156.238.248.80/2099.php?id=1248
+#EXTINF:-1 ,百事通电影4K
+http://156.238.248.80/2099.php?id=1249
+#EXTINF:-1 ,百事通纪实4K
+http://156.238.248.80/2099.php?id=1250
+#EXTINF:-1 ,百事通体育
+http://156.238.248.80/2099.php?id=1251
+#EXTINF:-1 ,百事通科教
+http://156.238.248.80/2099.php?id=1252
+#EXTINF:-1 ,北京卫视
+http://156.238.248.80/2099.php?id=1253
+#EXTINF:-1 ,江苏卫视
+http://156.238.248.80/2099.php?id=1254
+#EXTINF:-1 ,浙江卫视
+http://156.238.248.80/2099.php?id=1255
+#EXTINF:-1 ,湖北卫视
+http://156.238.248.80/2099.php?id=1256
+#EXTINF:-1 ,湖南卫视
+http://156.238.248.80/2099.php?id=1257
+#EXTINF:-1 ,天津卫视
+http://156.238.248.80/2099.php?id=1258
+#EXTINF:-1 ,安徽卫视
+http://156.238.248.80/2099.php?id=1259
+#EXTINF:-1 ,山东卫视
+http://156.238.248.80/2099.php?id=1260
+#EXTINF:-1 ,广东卫视
+http://156.238.248.80/2099.php?id=1261
+#EXTINF:-1 ,东南卫视
+http://156.238.248.80/2099.php?id=1262
+#EXTINF:-1 ,广西卫视
+http://156.238.248.80/2099.php?id=1263
+#EXTINF:-1 ,江西卫视
+http://156.238.248.80/2099.php?id=1264
+#EXTINF:-1 ,河北卫视
+http://156.238.248.80/2099.php?id=1265
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=1266
+#EXTINF:-1 ,海南卫视
+http://156.238.248.80/2099.php?id=1267
+#EXTINF:-1 ,深圳卫视
+http://156.238.248.80/2099.php?id=1268
+#EXTINF:-1 ,四川卫视
+http://156.238.248.80/2099.php?id=1269
+#EXTINF:-1 ,重庆卫视
+http://156.238.248.80/2099.php?id=1270
+#EXTINF:-1 ,云南卫视
+http://156.238.248.80/2099.php?id=1271
+#EXTINF:-1 ,贵州卫视
+http://156.238.248.80/2099.php?id=1272
+#EXTINF:-1 ,吉林卫视
+http://156.238.248.80/2099.php?id=1273
+#EXTINF:-1 ,辽宁卫视
+http://156.238.248.80/2099.php?id=1274
+#EXTINF:-1 ,黑龙江卫视
+http://156.238.248.80/2099.php?id=1275
+#EXTINF:-1 ,山西卫视
+http://156.238.248.80/2099.php?id=1276
+#EXTINF:-1 ,青海卫视
+http://156.238.248.80/2099.php?id=1277
+#EXTINF:-1 ,西藏卫视
+http://156.238.248.80/2099.php?id=1278
+#EXTINF:-1 ,宁夏卫视
+http://156.238.248.80/2099.php?id=1279
+#EXTINF:-1 ,陕西卫视
+http://156.238.248.80/2099.php?id=1280
+#EXTINF:-1 ,云南卫视
+http://156.238.248.80/2099.php?id=1281
+#EXTINF:-1 ,甘肃卫视
+http://156.238.248.80/2099.php?id=1282
+#EXTINF:-1 ,内蒙古卫视
+http://156.238.248.80/2099.php?id=1283
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=1284
+#EXTINF:-1 ,新疆卫视
+http://156.238.248.80/2099.php?id=1285
+#EXTINF:-1 ,兵团卫视
+http://156.238.248.80/2099.php?id=1286
+#EXTINF:-1 ,三沙卫视
+http://156.238.248.80/2099.php?id=1287
+#EXTINF:-1 ,康巴卫视
+http://156.238.248.80/2099.php?id=1288
+#EXTINF:-1 ,金鹰卡通
+http://156.238.248.80/2099.php?id=1289
+#EXTINF:-1 ,金鹰纪实
+http://156.238.248.80/2099.php?id=1290
+#EXTINF:-1 ,北京卡酷少儿
+http://156.238.248.80/2099.php?id=1291
+#EXTINF:-1 ,北京纪实科教
+http://156.238.248.80/2099.php?id=1292
+#EXTINF:-1 ,CETV1
+http://156.238.248.80/2099.php?id=1293
+#EXTINF:-1 ,CETV2
+http://156.238.248.80/2099.php?id=1294
+#EXTINF:-1 ,CETV4
+http://156.238.248.80/2099.php?id=1295
+#EXTINF:-1 ,CGTN英语
+http://156.238.248.80/2099.php?id=1296
+#EXTINF:-1 ,嘉定频道
+http://156.238.248.80/2099.php?id=1297
+#EXTINF:-1 ,嘉佳卡通
+http://156.238.248.80/2099.php?id=1298
+#EXTINF:-1 ,====== 广西,#genre# ======
+http://19/19.m3u8
+#EXTINF:-1 ,广西卫视
+http://156.238.248.80/2099.php?id=1299
+#EXTINF:-1 ,广西综艺旅游
+http://156.238.248.80/2099.php?id=1300
+#EXTINF:-1 ,广西影视频道
+http://156.238.248.80/2099.php?id=1301
+#EXTINF:-1 ,广西新闻频道
+http://156.238.248.80/2099.php?id=1302
+#EXTINF:-1 ,广西都市频道
+http://156.238.248.80/2099.php?id=1303
+#EXTINF:-1 ,广西国际频道
+http://156.238.248.80/2099.php?id=1304
+#EXTINF:-1 ,广西移动电视
+http://156.238.248.80/2099.php?id=1305
+#EXTINF:-1 ,南宁新闻综合
+http://156.238.248.80/2099.php?id=1306
+#EXTINF:-1 ,CCTV-1综合
+http://156.238.248.80/2099.php?id=1307
+#EXTINF:-1 ,CCTV-2财经
+http://156.238.248.80/2099.php?id=1308
+#EXTINF:-1 ,CCTV-3综艺
+http://156.238.248.80/2099.php?id=1309
+#EXTINF:-1 ,CCTV-4中文国际
+http://156.238.248.80/2099.php?id=1310
+#EXTINF:-1 ,CCTV-5体育
+http://156.238.248.80/2099.php?id=1311
+#EXTINF:-1 ,CCTV-6电影
+http://156.238.248.80/2099.php?id=1312
+#EXTINF:-1 ,CCTV-7国防军事
+http://156.238.248.80/2099.php?id=1313
+#EXTINF:-1 ,CCTV-8电视剧
+http://156.238.248.80/2099.php?id=1314
+#EXTINF:-1 ,CCTV-9纪录
+http://156.238.248.80/2099.php?id=1315
+#EXTINF:-1 ,CCTV-10科教
+http://156.238.248.80/2099.php?id=1316
+#EXTINF:-1 ,CCTV-11戏曲
+http://156.238.248.80/2099.php?id=1317
+#EXTINF:-1 ,CCTV-12社会与法
+http://156.238.248.80/2099.php?id=1318
+#EXTINF:-1 ,CCTV-13新闻
+http://156.238.248.80/2099.php?id=1319
+#EXTINF:-1 ,CCTV-14少儿
+http://156.238.248.80/2099.php?id=1320
+#EXTINF:-1 ,CCTV-15音乐
+http://156.238.248.80/2099.php?id=1321
+#EXTINF:-1 ,CCTV-17农业农村
+http://156.238.248.80/2099.php?id=1322
+#EXTINF:-1 ,CCTV-5+体育赛事
+http://156.238.248.80/2099.php?id=1323
+#EXTINF:-1 ,北京卫视
+http://156.238.248.80/2099.php?id=1324
+#EXTINF:-1 ,天津卫视
+http://156.238.248.80/2099.php?id=1325
+#EXTINF:-1 ,东方卫视
+http://156.238.248.80/2099.php?id=1326
+#EXTINF:-1 ,浙江卫视
+http://156.238.248.80/2099.php?id=1327
+#EXTINF:-1 ,安徽卫视
+http://156.238.248.80/2099.php?id=1328
+#EXTINF:-1 ,江苏卫视
+http://156.238.248.80/2099.php?id=1329
+#EXTINF:-1 ,山东卫视
+http://156.238.248.80/2099.php?id=1330
+#EXTINF:-1 ,广东卫视
+http://156.238.248.80/2099.php?id=1331
+#EXTINF:-1 ,四川卫视
+http://156.238.248.80/2099.php?id=1332
+#EXTINF:-1 ,深圳卫视
+http://156.238.248.80/2099.php?id=1333
+#EXTINF:-1 ,湖南卫视
+http://156.238.248.80/2099.php?id=1334
+#EXTINF:-1 ,湖北卫视
+http://156.238.248.80/2099.php?id=1335
+#EXTINF:-1 ,河北卫视
+http://156.238.248.80/2099.php?id=1336
+#EXTINF:-1 ,江西卫视
+http://156.238.248.80/2099.php?id=1337
+#EXTINF:-1 ,东南卫视
+http://156.238.248.80/2099.php?id=1338
+#EXTINF:-1 ,贵州卫视
+http://156.238.248.80/2099.php?id=1339
+#EXTINF:-1 ,辽宁卫视
+http://156.238.248.80/2099.php?id=1340
+#EXTINF:-1 ,黑龙江卫视
+http://156.238.248.80/2099.php?id=1341
+#EXTINF:-1 ,甘肃卫视
+http://156.238.248.80/2099.php?id=1342
+#EXTINF:-1 ,重庆卫视
+http://156.238.248.80/2099.php?id=1343
+#EXTINF:-1 ,吉林卫视
+http://156.238.248.80/2099.php?id=1344
+#EXTINF:-1 ,陕西卫视
+http://156.238.248.80/2099.php?id=1345
+#EXTINF:-1 ,山西卫视
+http://156.238.248.80/2099.php?id=1346
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=1347
+#EXTINF:-1 ,宁夏卫视
+http://156.238.248.80/2099.php?id=1348
+#EXTINF:-1 ,内蒙古卫视
+http://156.238.248.80/2099.php?id=1349
+#EXTINF:-1 ,青海卫视
+http://156.238.248.80/2099.php?id=1350
+#EXTINF:-1 ,新疆卫视
+http://156.238.248.80/2099.php?id=1351
+#EXTINF:-1 ,西藏卫视
+http://156.238.248.80/2099.php?id=1352
+#EXTINF:-1 ,云南卫视
+http://156.238.248.80/2099.php?id=1353
+#EXTINF:-1 ,海南卫视
+http://156.238.248.80/2099.php?id=1354
+#EXTINF:-1 ,三沙卫视
+http://156.238.248.80/2099.php?id=1355
+#EXTINF:-1 ,大湾区卫视
+http://156.238.248.80/2099.php?id=1356
+#EXTINF:-1 ,厦门卫视
+http://156.238.248.80/2099.php?id=1357
+#EXTINF:-1 ,兵团卫视
+http://156.238.248.80/2099.php?id=1358
+#EXTINF:-1 ,山东教育卫视
+http://156.238.248.80/2099.php?id=1359
+#EXTINF:-1 ,嘉佳卡通
+http://156.238.248.80/2099.php?id=1360
+#EXTINF:-1 ,卡酷动画
+http://156.238.248.80/2099.php?id=1361
+#EXTINF:-1 ,金鹰卡通
+http://156.238.248.80/2099.php?id=1362
+#EXTINF:-1 ,新动漫
+http://156.238.248.80/2099.php?id=1363
+#EXTINF:-1 ,电竞游戏
+http://156.238.248.80/2099.php?id=1364
+#EXTINF:-1 ,CETV1
+http://156.238.248.80/2099.php?id=1365
+#EXTINF:-1 ,CETV2
+http://156.238.248.80/2099.php?id=1366
+#EXTINF:-1 ,CETV4
+http://156.238.248.80/2099.php?id=1367
+#EXTINF:-1 ,CGTN
+http://156.238.248.80/2099.php?id=1368
+#EXTINF:-1 ,南宁影视娱乐
+http://156.238.248.80/2099.php?id=1369
+#EXTINF:-1 ,南宁公共频道
+http://156.238.248.80/2099.php?id=1370
+#EXTINF:-1 ,南宁文旅生活
+http://156.238.248.80/2099.php?id=1371
+#EXTINF:-1 ,柳州新闻
+http://156.238.248.80/2099.php?id=1372
+#EXTINF:-1 ,北海新闻
+http://156.238.248.80/2099.php?id=1373
+#EXTINF:-1 ,玉林新闻
+http://156.238.248.80/2099.php?id=1374
+#EXTINF:-1 ,贺州新闻
+http://156.238.248.80/2099.php?id=1375
+#EXTINF:-1 ,桂林新闻
+http://156.238.248.80/2099.php?id=1376
+#EXTINF:-1 ,华数爱上4K
+http://156.238.248.80/2099.php?id=1377
+#EXTINF:-1 ,广西IPTV7
+http://156.238.248.80/2099.php?id=1378
+#EXTINF:-1 ,广西IPTV8
+http://156.238.248.80/2099.php?id=1379
+#EXTINF:-1 ,IPTV6电影
+http://156.238.248.80/2099.php?id=1380
+#EXTINF:-1 ,IPTV12
+http://156.238.248.80/2099.php?id=1381
+#EXTINF:-1 ,IPTV5体育
+http://156.238.248.80/2099.php?id=1382
+#EXTINF:-1 ,====== 海南,#genre# ======
+http://20/20.m3u8
+#EXTINF:-1 ,CCTV-1
+http://156.238.248.80/2099.php?id=1383
+#EXTINF:-1 ,CCTV-2
+http://156.238.248.80/2099.php?id=1384
+#EXTINF:-1 ,CCTV-3
+http://156.238.248.80/2099.php?id=1385
+#EXTINF:-1 ,CCTV-4
+http://156.238.248.80/2099.php?id=1386
+#EXTINF:-1 ,CCTV-5
+http://156.238.248.80/2099.php?id=1387
+#EXTINF:-1 ,CCTV-6
+http://156.238.248.80/2099.php?id=1388
+#EXTINF:-1 ,CCTV-7
+http://156.238.248.80/2099.php?id=1389
+#EXTINF:-1 ,CCTV-8
+http://156.238.248.80/2099.php?id=1390
+#EXTINF:-1 ,CCTV-9
+http://156.238.248.80/2099.php?id=1391
+#EXTINF:-1 ,CCTV-10
+http://156.238.248.80/2099.php?id=1392
+#EXTINF:-1 ,CCTV-11
+http://156.238.248.80/2099.php?id=1393
+#EXTINF:-1 ,CCTV-12
+http://156.238.248.80/2099.php?id=1394
+#EXTINF:-1 ,CCTV-13
+http://156.238.248.80/2099.php?id=1395
+#EXTINF:-1 ,CCTV-14
+http://156.238.248.80/2099.php?id=1396
+#EXTINF:-1 ,CCTV-15
+http://156.238.248.80/2099.php?id=1397
+#EXTINF:-1 ,CCTV-16
+http://156.238.248.80/2099.php?id=1398
+#EXTINF:-1 ,CCTV-16
+http://156.238.248.80/2099.php?id=1399
+#EXTINF:-1 ,CCTV-17
+http://156.238.248.80/2099.php?id=1400
+#EXTINF:-1 ,CCTV-5+
+http://156.238.248.80/2099.php?id=1401
+#EXTINF:-1 ,海南卫视
+http://156.238.248.80/2099.php?id=1402
+#EXTINF:-1 ,三沙卫视
+http://156.238.248.80/2099.php?id=1403
+#EXTINF:-1 ,海南自贸
+http://156.238.248.80/2099.php?id=1404
+#EXTINF:-1 ,海南新闻
+http://156.238.248.80/2099.php?id=1405
+#EXTINF:-1 ,海南文旅
+http://156.238.248.80/2099.php?id=1406
+#EXTINF:-1 ,海南少儿
+http://156.238.248.80/2099.php?id=1407
+#EXTINF:-1 ,海南公共
+http://156.238.248.80/2099.php?id=1408
+#EXTINF:-1 ,海口1台
+http://156.238.248.80/2099.php?id=1409
+#EXTINF:-1 ,海口2台
+http://156.238.248.80/2099.php?id=1410
+#EXTINF:-1 ,海口3台
+http://156.238.248.80/2099.php?id=1411
+#EXTINF:-1 ,三亚1台
+http://156.238.248.80/2099.php?id=1412
+#EXTINF:-1 ,文昌TV
+http://156.238.248.80/2099.php?id=1413
+#EXTINF:-1 ,白沙TV
+http://156.238.248.80/2099.php?id=1414
+#EXTINF:-1 ,昌江TV
+http://156.238.248.80/2099.php?id=1415
+#EXTINF:-1 ,五指山TV
+http://156.238.248.80/2099.php?id=1416
+#EXTINF:-1 ,儋州TV
+http://156.238.248.80/2099.php?id=1417
+#EXTINF:-1 ,澄迈TV
+http://156.238.248.80/2099.php?id=1418
+#EXTINF:-1 ,保亭TV
+http://156.238.248.80/2099.php?id=1419
+#EXTINF:-1 ,陵水TV
+http://156.238.248.80/2099.php?id=1420
+#EXTINF:-1 ,万宁TV
+http://156.238.248.80/2099.php?id=1421
+#EXTINF:-1 ,临高TV
+http://156.238.248.80/2099.php?id=1422
+#EXTINF:-1 ,屯昌TV
+http://156.238.248.80/2099.php?id=1423
+#EXTINF:-1 ,琼海TV
+http://156.238.248.80/2099.php?id=1424
+#EXTINF:-1 ,定安TV
+http://156.238.248.80/2099.php?id=1425
+#EXTINF:-1 ,东方TV
+http://156.238.248.80/2099.php?id=1426
+#EXTINF:-1 ,琼中TV
+http://156.238.248.80/2099.php?id=1427
+#EXTINF:-1 ,乐东TV
+http://156.238.248.80/2099.php?id=1428
+#EXTINF:-1 ,东南卫视
+http://156.238.248.80/2099.php?id=1429
+#EXTINF:-1 ,湖南卫视
+http://156.238.248.80/2099.php?id=1430
+#EXTINF:-1 ,广东卫视
+http://156.238.248.80/2099.php?id=1431
+#EXTINF:-1 ,北京卫视
+http://156.238.248.80/2099.php?id=1432
+#EXTINF:-1 ,东方卫视
+http://156.238.248.80/2099.php?id=1433
+#EXTINF:-1 ,浙江卫视
+http://156.238.248.80/2099.php?id=1434
+#EXTINF:-1 ,江苏卫视
+http://156.238.248.80/2099.php?id=1435
+#EXTINF:-1 ,黑龙江卫视
+http://156.238.248.80/2099.php?id=1436
+#EXTINF:-1 ,湖北卫视
+http://156.238.248.80/2099.php?id=1437
+#EXTINF:-1 ,深圳卫视
+http://156.238.248.80/2099.php?id=1438
+#EXTINF:-1 ,山东卫视
+http://156.238.248.80/2099.php?id=1439
+#EXTINF:-1 ,安徽卫视
+http://156.238.248.80/2099.php?id=1440
+#EXTINF:-1 ,河北卫视
+http://156.238.248.80/2099.php?id=1441
+#EXTINF:-1 ,辽宁卫视
+http://156.238.248.80/2099.php?id=1442
+#EXTINF:-1 ,贵州卫视
+http://156.238.248.80/2099.php?id=1443
+#EXTINF:-1 ,天津卫视
+http://156.238.248.80/2099.php?id=1444
+#EXTINF:-1 ,山西卫视
+http://156.238.248.80/2099.php?id=1445
+#EXTINF:-1 ,江西卫视
+http://156.238.248.80/2099.php?id=1446
+#EXTINF:-1 ,重庆卫视
+http://156.238.248.80/2099.php?id=1447
+#EXTINF:-1 ,四川卫视
+http://156.238.248.80/2099.php?id=1448
+#EXTINF:-1 ,陕西卫视
+http://156.238.248.80/2099.php?id=1449
+#EXTINF:-1 ,河南卫视
+http://156.238.248.80/2099.php?id=1450
+#EXTINF:-1 ,广西卫视
+http://156.238.248.80/2099.php?id=1451
+#EXTINF:-1 ,甘肃卫视
+http://156.238.248.80/2099.php?id=1452
+#EXTINF:-1 ,厦门卫视
+http://156.238.248.80/2099.php?id=1453
+#EXTINF:-1 ,宁夏卫视
+http://156.238.248.80/2099.php?id=1454
+#EXTINF:-1 ,兵团卫视
+http://156.238.248.80/2099.php?id=1455
+#EXTINF:-1 ,青海卫视
+http://156.238.248.80/2099.php?id=1456
+#EXTINF:-1 ,吉林卫视
+http://156.238.248.80/2099.php?id=1457
+#EXTINF:-1 ,西藏卫视
+http://156.238.248.80/2099.php?id=1458
+#EXTINF:-1 ,内蒙古卫视
+http://156.238.248.80/2099.php?id=1459
+#EXTINF:-1 ,新疆卫视
+http://156.238.248.80/2099.php?id=1460
+#EXTINF:-1 ,云南卫视
+http://156.238.248.80/2099.php?id=1461
+#EXTINF:-1 ,爱生活
+http://156.238.248.80/2099.php?id=1462
+#EXTINF:-1 ,爱综艺
+http://156.238.248.80/2099.php?id=1463
+#EXTINF:-1 ,爱体育
+http://156.238.248.80/2099.php?id=1464
+#EXTINF:-1 ,爱电影
+http://156.238.248.80/2099.php?id=1465
+#EXTINF:-1 ,爱大剧
+http://156.238.248.80/2099.php?id=1466
+#EXTINF:-1 ,爱上4K
+http://156.238.248.80/2099.php?id=1467
+#EXTINF:-1 ,好学生
+http://156.238.248.80/2099.php?id=1468
+#EXTINF:-1 ,CETV1
+http://156.238.248.80/2099.php?id=1469
+#EXTINF:-1 ,CETV2
+http://156.238.248.80/2099.php?id=1470
+#EXTINF:-1 ,CETV4
+http://156.238.248.80/2099.php?id=1471
+#EXTINF:-1 ,CGTN英文纪录
+http://156.238.248.80/2099.php?id=1472
+#EXTINF:-1 ,CGTN
+http://156.238.248.80/2099.php?id=1473
+#EXTINF:-1 ,纪实
+http://156.238.248.80/2099.php?id=1474
+#EXTINF:-1 ,金鹰纪实
+http://156.238.248.80/2099.php?id=1475
+#EXTINF:-1 ,都市剧场
+http://156.238.248.80/2099.php?id=1476
+#EXTINF:-1 ,游戏风云
+http://156.238.248.80/2099.php?id=1477
+#EXTINF:-1 ,动漫秀场
+http://156.238.248.80/2099.php?id=1478
+#EXTINF:-1 ,生活时尚
+http://156.238.248.80/2099.php?id=1479
+#EXTINF:-1 ,IPTV法治
+http://156.238.248.80/2099.php?id=1480
+#EXTINF:-1 ,IPTV野外
+http://156.238.248.80/2099.php?id=1481
+#EXTINF:-1 ,IPTV谍战剧场
+http://156.238.248.80/2099.php?id=1482
+#EXTINF:-1 ,IPTV相声小品
+http://156.238.248.80/2099.php?id=1483
+#EXTINF:-1 ,地理
+http://156.238.248.80/2099.php?id=1484
+#EXTINF:-1 ,解密
+http://156.238.248.80/2099.php?id=1485
+#EXTINF:-1 ,军事
+http://156.238.248.80/2099.php?id=1486
+#EXTINF:-1 ,足球
+http://156.238.248.80/2099.php?id=1487
+#EXTINF:-1 ,武术
+http://156.238.248.80/2099.php?id=1488
+#EXTINF:-1 ,台球
+http://156.238.248.80/2099.php?id=1489
+#EXTINF:-1 ,高网
+http://156.238.248.80/2099.php?id=1490
+#EXTINF:-1 ,美人
+http://156.238.248.80/2099.php?id=1491
+#EXTINF:-1 ,戏曲
+http://156.238.248.80/2099.php?id=1492
+#EXTINF:-1 ,精选
+http://156.238.248.80/2099.php?id=1493
+#EXTINF:-1 ,动画
+http://156.238.248.80/2099.php?id=1494
+#EXTINF:-1 ,墨宝
+http://156.238.248.80/2099.php?id=1495
+#EXTINF:-1 ,国学
+http://156.238.248.80/2099.php?id=1496
+#EXTINF:-1 ,早教
+http://156.238.248.80/2099.php?id=1497
+#EXTINF:-1 ,山东教育
+http://156.238.248.80/2099.php?id=1498
+#EXTINF:-1 ,金鹰卡通
+http://156.238.248.80/2099.php?id=1499
+#EXTINF:-1 ,卡酷动画
+http://156.238.248.80/2099.php?id=1500
+#EXTINF:-1 ,嘉佳卡通
+http://156.238.248.80/2099.php?id=1501
+#EXTINF:-1 ,财富天下
+http://156.238.248.80/2099.php?id=1502
+#EXTINF:-1 ,收视指南
+http://156.238.248.80/2099.php?id=1503
+#EXTINF:-1 ,古装剧场
+http://156.238.248.80/2099.php?id=1504
+#EXTINF:-1 ,城市剧场
+http://156.238.248.80/2099.php?id=1505
+#EXTINF:-1 ,军旅剧场
+http://156.238.248.80/2099.php?id=1506
+#EXTINF:-1 ,热播剧场
+http://156.238.248.80/2099.php?id=1507
+#EXTINF:-1 ,武侠剧场
+http://156.238.248.80/2099.php?id=1508
+#EXTINF:-1 ,动作影院
+http://156.238.248.80/2099.php?id=1509
+#EXTINF:-1 ,家庭影院
+http://156.238.248.80/2099.php?id=1510
+#EXTINF:-1 ,喜剧影院
+http://156.238.248.80/2099.php?id=1511
+#EXTINF:-1 ,经典电影
+http://156.238.248.80/2099.php?id=1512
+#EXTINF:-1 ,少儿动画
+http://156.238.248.80/2099.php?id=1513
+#EXTINF:-1 ,音乐现场
+http://156.238.248.80/2099.php?id=1514
+#EXTINF:-1 ,魅力时尚
+http://156.238.248.80/2099.php?id=1515
+#EXTINF:-1 ,中国天气
+http://156.238.248.80/2099.php?id=1516
+#EXTINF:-1 ,====== 电台,#genre# ======
+http://21/21.m3u8
+#EXTINF:-1 ,巴登-符腾堡
+http://156.238.248.80/2099.php?id=1517
+#EXTINF:-1 ,萨克森
+http://156.238.248.80/2099.php?id=1518
+#EXTINF:-1 ,夏日
+http://156.238.248.80/2099.php?id=1519
+#EXTINF:-1 ,冬日
+http://156.238.248.80/2099.php?id=1520
+#EXTINF:-1 ,轻松酷炫
+http://156.238.248.80/2099.php?id=1521
+#EXTINF:-1 ,摇滚
+http://156.238.248.80/2099.php?id=1522
+#EXTINF:-1 ,电子音乐
+http://156.238.248.80/2099.php?id=1523
+#EXTINF:-1 ,充满情感
+http://156.238.248.80/2099.php?id=1524
+#EXTINF:-1 ,连贯不断
+http://156.238.248.80/2099.php?id=1525
+#EXTINF:-1 ,放松平静
+http://156.238.248.80/2099.php?id=1526
+#EXTINF:-1 ,充满爵士风
+http://156.238.248.80/2099.php?id=1527
+#EXTINF:-1 ,卡夫卡风格
+http://156.238.248.80/2099.php?id=1528
+#EXTINF:-1 ,电影感
+http://156.238.248.80/2099.php?id=1529
+#EXTINF:-1 ,霍夫曼与科尔曼电台
+http://156.238.248.80/2099.php?id=1530
+#EXTINF:-1 ,传奇
+http://156.238.248.80/2099.php?id=1531
+#EXTINF:-1 ,柔和顺畅
+http://156.238.248.80/2099.php?id=1532
+#EXTINF:-1 ,广东
+http://156.238.248.80/2099.php?id=1533
+#EXTINF:-1 ,广东音乐
+http://156.238.248.80/2099.php?id=1534
+#EXTINF:-1 ,广东2
+http://156.238.248.80/2099.php?id=1535
+#EXTINF:-1 ,广东汽车
+http://156.238.248.80/2099.php?id=1536
+#EXTINF:-1 ,广东3
+http://156.238.248.80/2099.php?id=1537
+#EXTINF:-1 ,香港第三台
+http://156.238.248.80/2099.php?id=1538
+#EXTINF:-1 ,亚洲经典
+http://156.238.248.80/2099.php?id=1539
+#EXTINF:-1 ,亚洲热歌
+http://156.238.248.80/2099.php?id=1540
+#EXTINF:-1 ,HD音乐
+http://156.238.248.80/2099.php?id=1541
+#EXTINF:-1 ,亚洲粤语
+http://156.238.248.80/2099.php?id=1542
+#EXTINF:-1 ,亚洲天空
+http://156.238.248.80/2099.php?id=1543
+#EXTINF:-1 ,亚洲音乐
+http://156.238.248.80/2099.php?id=1544
+#EXTINF:-1 ,澳门绿坉
+http://156.238.248.80/2099.php?id=1545
+#EXTINF:-1 ,重庆音乐
+http://156.238.248.80/2099.php?id=1546
+#EXTINF:-1 ,江苏音乐
+http://156.238.248.80/2099.php?id=1547
+#EXTINF:-1 ,广西音乐
+http://156.238.248.80/2099.php?id=1548
+#EXTINF:-1 ,陕西音乐
+http://156.238.248.80/2099.php?id=1549
+#EXTINF:-1 ,河南音乐
+http://156.238.248.80/2099.php?id=1550
+#EXTINF:-1 ,河南音乐2
+http://156.238.248.80/2099.php?id=1551
+#EXTINF:-1 ,香港古典音乐
+http://156.238.248.80/2099.php?id=1552
+#EXTINF:-1 ,四川音乐
+http://156.238.248.80/2099.php?id=1553
+#EXTINF:-1 ,贵州音乐
+http://156.238.248.80/2099.php?id=1554
+#EXTINF:-1 ,湖北音乐
+http://156.238.248.80/2099.php?id=1555
+#EXTINF:-1 ,湖南音乐
+http://156.238.248.80/2099.php?id=1556
+#EXTINF:-1 ,吉林音乐
+http://156.238.248.80/2099.php?id=1557
+#EXTINF:-1 ,江西音乐
+http://156.238.248.80/2099.php?id=1558
+#EXTINF:-1 ,山西音乐
+http://156.238.248.80/2099.php?id=1559
+#EXTINF:-1 ,福建音乐
+http://156.238.248.80/2099.php?id=1560
+#EXTINF:-1 ,河北音乐
+http://156.238.248.80/2099.php?id=1561
+#EXTINF:-1 ,浙江音乐
+http://156.238.248.80/2099.php?id=1562
+#EXTINF:-1 ,CRI环球资讯广播
+http://156.238.248.80/2099.php?id=1563
+#EXTINF:-1 ,CRI华语环球广播
+http://156.238.248.80/2099.php?id=1564
+#EXTINF:-1 ,CRI英语环球广播 China Plus Radio
+http://156.238.248.80/2099.php?id=1565
+#EXTINF:-1 ,CRI外语教学广播 China Plus Radio
+http://156.238.248.80/2099.php?id=1566
+#EXTINF:-1 ,CRI南海之声
+http://156.238.248.80/2099.php?id=1567
+#EXTINF:-1 ,CRI轻松调频
+http://156.238.248.80/2099.php?id=1568
+#EXTINF:-1 ,CRI粤语国际
+http://156.238.248.80/2099.php?id=1569
+#EXTINF:-1 ,CNR中国之声
+http://156.238.248.80/2099.php?id=1570
+#EXTINF:-1 ,CNR经济之声
+http://156.238.248.80/2099.php?id=1571
+#EXTINF:-1 ,CNR文艺之声
+http://156.238.248.80/2099.php?id=1572
+#EXTINF:-1 ,上海长三角之声
+http://156.238.248.80/2099.php?id=1573
+#EXTINF:-1 ,上海第一财经广播
+http://156.238.248.80/2099.php?id=1574
+#EXTINF:-1 ,湖南旅游广播·PoPoPod播客电台
+http://156.238.248.80/2099.php?id=1575
+#EXTINF:-1 ,江苏新闻综合广播
+http://156.238.248.80/2099.php?id=1576
+#EXTINF:-1 ,江苏文艺广播
+http://156.238.248.80/2099.php?id=1577
+#EXTINF:-1 ,江苏财经广播
+http://156.238.248.80/2099.php?id=1578
+#EXTINF:-1 ,安徽之声
+http://156.238.248.80/2099.php?id=1579
+#EXTINF:-1 ,安徽生活广播·城市之声
+http://156.238.248.80/2099.php?id=1580
+#EXTINF:-1 ,安徽经济广播
+http://156.238.248.80/2099.php?id=1581
+#EXTINF:-1 ,安徽交通广播
+http://156.238.248.80/2099.php?id=1582
+#EXTINF:-1 ,安徽旅游广播·高速之声
+http://156.238.248.80/2099.php?id=1583
+#EXTINF:-1 ,安徽戏曲广播·动听995
+http://156.238.248.80/2099.php?id=1584
+#EXTINF:-1 ,安徽故事广播
+http://156.238.248.80/2099.php?id=1585
+#EXTINF:-1 ,湖北之声
+http://156.238.248.80/2099.php?id=1586
+#EXTINF:-1 ,楚天交通广播
+http://156.238.248.80/2099.php?id=1587
+#EXTINF:-1 ,福建都市广播·私家车987
+http://156.238.248.80/2099.php?id=1588
+#EXTINF:-1 ,福建东南广播
+http://156.238.248.80/2099.php?id=1589
+#EXTINF:-1 ,江西都市广播
+http://156.238.248.80/2099.php?id=1590
+#EXTINF:-1 ,山东交通广播
+http://156.238.248.80/2099.php?id=1591
+#EXTINF:-1 ,山东体育休闲广播
+http://156.238.248.80/2099.php?id=1592
+#EXTINF:-1 ,山东经济广播
+http://156.238.248.80/2099.php?id=1593
+#EXTINF:-1 ,山东乡村广播
+http://156.238.248.80/2099.php?id=1594
+#EXTINF:-1 ,陕西交通广播
+http://156.238.248.80/2099.php?id=1595
+#EXTINF:-1 ,陕西经济广播·896汽车调频
+http://156.238.248.80/2099.php?id=1596
+#EXTINF:-1 ,陕西都市广播·陕广新闻
+http://156.238.248.80/2099.php?id=1597
+#EXTINF:-1 ,陕西农村广播
+http://156.238.248.80/2099.php?id=1598
+#EXTINF:-1 ,陕西戏曲广播
+http://156.238.248.80/2099.php?id=1599
+#EXTINF:-1 ,陕西新闻广播
+http://156.238.248.80/2099.php?id=1600
+#EXTINF:-1 ,浙江之声
+http://156.238.248.80/2099.php?id=1601
+#EXTINF:-1 ,浙江经济广播
+http://156.238.248.80/2099.php?id=1602
+#EXTINF:-1 ,浙江交通之声
+http://156.238.248.80/2099.php?id=1603
+#EXTINF:-1 ,浙江民生资讯广播
+http://156.238.248.80/2099.php?id=1604
+#EXTINF:-1 ,浙江城市之声
+http://156.238.248.80/2099.php?id=1605
+#EXTINF:-1 ,浙江旅游之声
+http://156.238.248.80/2099.php?id=1606
+#EXTINF:-1 ,宁波新闻综合广播
+http://156.238.248.80/2099.php?id=1607
+#EXTINF:-1 ,宁波交通广播
+http://156.238.248.80/2099.php?id=1608
+#EXTINF:-1 ,宁波经济广播
+http://156.238.248.80/2099.php?id=1609
+#EXTINF:-1 ,四川经济广播
+http://156.238.248.80/2099.php?id=1610
+#EXTINF:-1 ,四川文艺广播
+http://156.238.248.80/2099.php?id=1611
+#EXTINF:-1 ,四川旅游生活广播
+http://156.238.248.80/2099.php?id=1612
+#EXTINF:-1 ,四川交通广播
+http://156.238.248.80/2099.php?id=1613
+#EXTINF:-1 ,四川综合广播四川之声
+http://156.238.248.80/2099.php?id=1614
+#EXTINF:-1 ,四川私家车广播
+http://156.238.248.80/2099.php?id=1615
+#EXTINF:-1 ,贵州经济广播
+http://156.238.248.80/2099.php?id=1616
+#EXTINF:-1 ,贵州旅游广播
+http://156.238.248.80/2099.php?id=1617
+#EXTINF:-1 ,贵州故事广播
+http://156.238.248.80/2099.php?id=1618
+#EXTINF:-1 ,贵州综合广播
+http://156.238.248.80/2099.php?id=1619
+#EXTINF:-1 ,延边文艺生活广播
+http://156.238.248.80/2099.php?id=1620
+#EXTINF:-1 ,辽宁之声
+http://156.238.248.80/2099.php?id=1621
+#EXTINF:-1 ,辽宁乡村广播
+http://156.238.248.80/2099.php?id=1622
+#EXTINF:-1 ,辽宁经济广播
+http://156.238.248.80/2099.php?id=1623
+#EXTINF:-1 ,辽宁交通广播
+http://156.238.248.80/2099.php?id=1624
+#EXTINF:-1 ,黑龙江都市女性广播
+http://156.238.248.80/2099.php?id=1625
+#EXTINF:-1 ,黑龙江高校广播
+http://156.238.248.80/2099.php?id=1626
+#EXTINF:-1 ,黑龙江老年少儿广播·爱家调频
+http://156.238.248.80/2099.php?id=1627
+#EXTINF:-1 ,黑龙江朝鲜语广播
+http://156.238.248.80/2099.php?id=1628
+#EXTINF:-1 ,内蒙古农村牧区广播绿野之声
+http://156.238.248.80/2099.php?id=1629
+#EXTINF:-1 ,内蒙古新闻广播
+http://156.238.248.80/2099.php?id=1630
+#EXTINF:-1 ,内蒙古经济生活广播
+http://156.238.248.80/2099.php?id=1631
+#EXTINF:-1 ,内蒙古评书曲艺广播
+http://156.238.248.80/2099.php?id=1632
+#EXTINF:-1 ,内蒙古蒙语对外广播草原之声
+http://156.238.248.80/2099.php?id=1633
+#EXTINF:-1 ,内蒙古蒙语新闻综合广播
+http://156.238.248.80/2099.php?id=1634
+#EXTINF:-1 ,锡林郭勒汉语广播
+http://156.238.248.80/2099.php?id=1635
+#EXTINF:-1 ,锡林郭勒蒙语广播
+http://156.238.248.80/2099.php?id=1636
+#EXTINF:-1 ,阿拉善汉语广播
+http://156.238.248.80/2099.php?id=1637
+#EXTINF:-1 ,阿拉善蒙语广播
+http://156.238.248.80/2099.php?id=1638
+#EXTINF:-1 ,呼伦贝尔汉语广播
+http://156.238.248.80/2099.php?id=1639
+#EXTINF:-1 ,呼伦贝尔蒙语广播
+http://156.238.248.80/2099.php?id=1640
+#EXTINF:-1 ,新疆私家车广播
+http://156.238.248.80/2099.php?id=1641
+#EXTINF:-1 ,甘肃经济广播
+http://156.238.248.80/2099.php?id=1642
+#EXTINF:-1 ,广西教育广播
+http://156.238.248.80/2099.php?id=1643
+#EXTINF:-1 ,广西综合广播
+http://156.238.248.80/2099.php?id=1644
+#EXTINF:-1 ,广西北部湾之声
+http://156.238.248.80/2099.php?id=1645
+#EXTINF:-1 ,广西交通广播
+http://156.238.248.80/2099.php?id=1646
+#EXTINF:-1 ,云南新闻广播
+http://156.238.248.80/2099.php?id=1647
+#EXTINF:-1 ,云南经济广播·私家车电台
+http://156.238.248.80/2099.php?id=1648
+#EXTINF:-1 ,云南交通之声
+http://156.238.248.80/2099.php?id=1649
+#EXTINF:-1 ,云南旅游广播·香格里拉之声
+http://156.238.248.80/2099.php?id=1650
+#EXTINF:-1 ,云南民族广播
+http://156.238.248.80/2099.php?id=1651
+#EXTINF:-1 ,云南国际广播
+http://156.238.248.80/2099.php?id=1652
+#EXTINF:-1 ,云南教育广播·知道分子
+http://156.238.248.80/2099.php?id=1653
+#EXTINF:-1 ,宁夏经济广播
+http://156.238.248.80/2099.php?id=1654
+#EXTINF:-1 ,宁夏新闻广播
+http://156.238.248.80/2099.php?id=1655
+#EXTINF:-1 ,宁夏旅游广播
+http://156.238.248.80/2099.php?id=1656
+#EXTINF:-1 ,青海新闻综合广播
+http://156.238.248.80/2099.php?id=1657
+#EXTINF:-1 ,青海经济广播
+http://156.238.248.80/2099.php?id=1658
+#EXTINF:-1 ,开州之声
+http://156.238.248.80/2099.php?id=1659
+#EXTINF:-1 ,NPR·KJZZ
+http://156.238.248.80/2099.php?id=1660
+#EXTINF:-1 ,NPR·WBEZ
+http://156.238.248.80/2099.php?id=1661
+#EXTINF:-1 ,NPR·MPR News
+http://156.238.248.80/2099.php?id=1662
+#EXTINF:-1 ,NPR·WOSU
+http://156.238.248.80/2099.php?id=1663
+#EXTINF:-1 ,NPR·KQED
+http://156.238.248.80/2099.php?id=1664
+#EXTINF:-1 ,CRI HIT FM
+http://156.238.248.80/2099.php?id=1665
+#EXTINF:-1 ,CRI HIT FM
+http://156.238.248.80/2099.php?id=1666
+#EXTINF:-1 ,陕西音乐广播
+http://156.238.248.80/2099.php?id=1667
+#EXTINF:-1 ,陕西青少广播·好听1055
+http://156.238.248.80/2099.php?id=1668
+#EXTINF:-1 ,山东音乐广播
+http://156.238.248.80/2099.php?id=1669
+#EXTINF:-1 ,山东经典音乐广播
+http://156.238.248.80/2099.php?id=1670
+#EXTINF:-1 ,安徽音乐广播
+http://156.238.248.80/2099.php?id=1671
+#EXTINF:-1 ,宁波音乐广播
+http://156.238.248.80/2099.php?id=1672
+#EXTINF:-1 ,湖南文艺广播·摩登音乐台
+http://156.238.248.80/2099.php?id=1673
+#EXTINF:-1 ,内蒙古音乐之声
+http://156.238.248.80/2099.php?id=1674
+#EXTINF:-1 ,湖北经典音乐广播
+http://156.238.248.80/2099.php?id=1675
+#EXTINF:-1 ,甘肃青春调频
+http://156.238.248.80/2099.php?id=1676
+#EXTINF:-1 ,甘肃都市调频
+http://156.238.248.80/2099.php?id=1677
+#EXTINF:-1 ,广西音乐广播
+http://156.238.248.80/2099.php?id=1678
+#EXTINF:-1 ,广西经济广播·女主播电台
+http://156.238.248.80/2099.php?id=1679
+#EXTINF:-1 ,云南音乐广播
+http://156.238.248.80/2099.php?id=1680
+#EXTINF:-1 ,四川城市之音
+http://156.238.248.80/2099.php?id=1681
+#EXTINF:-1 ,四川岷江音乐
+http://156.238.248.80/2099.php?id=1682
+#EXTINF:-1 ,楚天音乐广播
+http://156.238.248.80/2099.php?id=1683
+#EXTINF:-1 ,江苏音乐广播
+http://156.238.248.80/2099.php?id=1684
+#EXTINF:-1 ,江苏经典流行音乐广播
+http://156.238.248.80/2099.php?id=1685
+#EXTINF:-1 ,浙江音乐调频·动听968
+http://156.238.248.80/2099.php?id=1686
+#EXTINF:-1 ,河北音乐广播
+http://156.238.248.80/2099.php?id=1687
+#EXTINF:-1 ,广东音乐之声
+http://156.238.248.80/2099.php?id=1688
+#EXTINF:-1 ,深圳飞扬971
+http://156.238.248.80/2099.php?id=1689
+#EXTINF:-1 ,深圳生活942
+http://156.238.248.80/2099.php?id=1690
+#EXTINF:-1 ,海南音乐广播
+http://156.238.248.80/2099.php?id=1691
+#EXTINF:-1 ,贵州音乐广播
+http://156.238.248.80/2099.php?id=1692
+#EXTINF:-1 ,贵州都市广播
+http://156.238.248.80/2099.php?id=1693
+#EXTINF:-1 ,宁夏音乐广播
+http://156.238.248.80/2099.php?id=1694
+#EXTINF:-1 ,重庆音乐广播
+http://156.238.248.80/2099.php?id=1695
+#EXTINF:-1 ,江西音乐广播
+http://156.238.248.80/2099.php?id=1696
+#EXTINF:-1 ,黑龙江音乐广播
+http://156.238.248.80/2099.php?id=1697
+#EXTINF:-1 ,福建汽车音乐广播
+http://156.238.248.80/2099.php?id=1698
+#EXTINF:-1 ,青岛摩登音乐调频
+http://156.238.248.80/2099.php?id=1699
+#EXTINF:-1 ,辽宁经典音乐广播
+http://156.238.248.80/2099.php?id=1700
+#EXTINF:-1 ,青海交通音乐广播
+http://156.238.248.80/2099.php?id=1701
+#EXTINF:-1 ,CGTN Radio
+http://156.238.248.80/2099.php?id=1702
+#EXTINF:-1 ,长三角之声
+http://156.238.248.80/2099.php?id=1703
+#EXTINF:-1 ,第一财经广播
+http://156.238.248.80/2099.php?id=1704
+#EXTINF:-1 ,AsiaFM 亚洲经典
+http://156.238.248.80/2099.php?id=1705
+#EXTINF:-1 ,AsiaFM 亚洲天空
+http://156.238.248.80/2099.php?id=1706
+#EXTINF:-1 ,北京新闻广播
+http://156.238.248.80/2099.php?id=1707
+#EXTINF:-1 ,湖北农村广播
+http://156.238.248.80/2099.php?id=1708
+#EXTINF:-1 ,万州综合广播
+http://156.238.248.80/2099.php?id=1709
+#EXTINF:-1 ,万州交通广播
+http://156.238.248.80/2099.php?id=1710
+#EXTINF:-1 ,四川新闻广播
+http://156.238.248.80/2099.php?id=1711
+#EXTINF:-1 ,河南农村广播大象资讯台
+http://156.238.248.80/2099.php?id=1712
+#EXTINF:-1 ,北京经典969
+http://156.238.248.80/2099.php?id=1713
+#EXTINF:-1 ,深圳飞扬971
+http://156.238.248.80/2099.php?id=1714
+#EXTINF:-1 ,深圳生活942
+http://156.238.248.80/2099.php?id=1715
+#EXTINF:-1 ,青岛音乐体育广播
+http://156.238.248.80/2099.php?id=1716
+#EXTINF:-1 ,烟台音乐广播
+http://156.238.248.80/2099.php?id=1717
+#EXTINF:-1 ,北京新闻
+http://156.238.248.80/2099.php?id=1718
+#EXTINF:-1 ,北京文艺
+http://156.238.248.80/2099.php?id=1719
+#EXTINF:-1 ,北京科教
+http://156.238.248.80/2099.php?id=1720
+#EXTINF:-1 ,北京影视
+http://156.238.248.80/2099.php?id=1721
+#EXTINF:-1 ,北京财经
+http://156.238.248.80/2099.php?id=1722
+#EXTINF:-1 ,北京生活
+http://156.238.248.80/2099.php?id=1723
+#EXTINF:-1 ,第一财经
+http://156.238.248.80/2099.php?id=1724
+#EXTINF:-1 ,湖南潇湘之声
+http://156.238.248.80/2099.php?id=1725
+#EXTINF:-1 ,湖南经济广播
+http://156.238.248.80/2099.php?id=1726
+#EXTINF:-1 ,湖南旅游广播·PoPoPod播客电台
+http://156.238.248.80/2099.php?id=1727
+#EXTINF:-1 ,湖南交通广播
+http://156.238.248.80/2099.php?id=1728
+#EXTINF:-1 ,湖南金鹰之声
+http://156.238.248.80/2099.php?id=1729
+#EXTINF:-1 ,湖南综合广播
+http://156.238.248.80/2099.php?id=1730
+#EXTINF:-1 ,江苏故事广播
+http://156.238.248.80/2099.php?id=1731
+#EXTINF:-1 ,江苏新闻综合广播
+http://156.238.248.80/2099.php?id=1732
+#EXTINF:-1 ,江苏新闻广播
+http://156.238.248.80/2099.php?id=1733
+#EXTINF:-1 ,江苏文艺广播
+http://156.238.248.80/2099.php?id=1734
+#EXTINF:-1 ,江苏金陵之声
+http://156.238.248.80/2099.php?id=1735
+#EXTINF:-1 ,江苏交通广播
+http://156.238.248.80/2099.php?id=1736
+#EXTINF:-1 ,江苏健康广播
+http://156.238.248.80/2099.php?id=1737
+#EXTINF:-1 ,安徽之声
+http://156.238.248.80/2099.php?id=1738
+#EXTINF:-1 ,安徽生活广播·城市之声
+http://156.238.248.80/2099.php?id=1739
+#EXTINF:-1 ,安徽经济广播
+http://156.238.248.80/2099.php?id=1740
+#EXTINF:-1 ,安徽交通广播
+http://156.238.248.80/2099.php?id=1741
+#EXTINF:-1 ,安徽旅游广播·高速之声
+http://156.238.248.80/2099.php?id=1742
+#EXTINF:-1 ,安徽戏曲广播·动听995
+http://156.238.248.80/2099.php?id=1743
+#EXTINF:-1 ,安徽故事广播
+http://156.238.248.80/2099.php?id=1744
+#EXTINF:-1 ,湖北之声
+http://156.238.248.80/2099.php?id=1745
+#EXTINF:-1 ,楚天交通广播
+http://156.238.248.80/2099.php?id=1746
+#EXTINF:-1 ,湖北亲子广播
+http://156.238.248.80/2099.php?id=1747
+#EXTINF:-1 ,湖北生活广播
+http://156.238.248.80/2099.php?id=1748
+#EXTINF:-1 ,湖北城市之声
+http://156.238.248.80/2099.php?id=1749
+#EXTINF:-1 ,湖北资讯广播
+http://156.238.248.80/2099.php?id=1750
+#EXTINF:-1 ,河北文艺广播
+http://156.238.248.80/2099.php?id=1751
+#EXTINF:-1 ,河北综合广播
+http://156.238.248.80/2099.php?id=1752
+#EXTINF:-1 ,河北交通广播
+http://156.238.248.80/2099.php?id=1753
+#EXTINF:-1 ,河北经济广播
+http://156.238.248.80/2099.php?id=1754
+#EXTINF:-1 ,河北生活广播
+http://156.238.248.80/2099.php?id=1755
+#EXTINF:-1 ,福建新闻广播
+http://156.238.248.80/2099.php?id=1756
+#EXTINF:-1 ,福建都市广播·私家车987
+http://156.238.248.80/2099.php?id=1757
+#EXTINF:-1 ,福建交通广播
+http://156.238.248.80/2099.php?id=1758
+#EXTINF:-1 ,福建经济广播
+http://156.238.248.80/2099.php?id=1759
+#EXTINF:-1 ,福建东南广播
+http://156.238.248.80/2099.php?id=1760
+#EXTINF:-1 ,江西综合新闻广播
+http://156.238.248.80/2099.php?id=1761
+#EXTINF:-1 ,江西都市广播
+http://156.238.248.80/2099.php?id=1762
+#EXTINF:-1 ,江西信息交通广播
+http://156.238.248.80/2099.php?id=1763
+#EXTINF:-1 ,江西民生广播
+http://156.238.248.80/2099.php?id=1764
+#EXTINF:-1 ,江西农村广播·绿色985
+http://156.238.248.80/2099.php?id=1765
+#EXTINF:-1 ,山东交通广播
+http://156.238.248.80/2099.php?id=1766
+#EXTINF:-1 ,山东体育休闲广播
+http://156.238.248.80/2099.php?id=1767
+#EXTINF:-1 ,山东经济广播
+http://156.238.248.80/2099.php?id=1768
+#EXTINF:-1 ,山东乡村广播
+http://156.238.248.80/2099.php?id=1769
+#EXTINF:-1 ,陕西交通广播
+http://156.238.248.80/2099.php?id=1770
+#EXTINF:-1 ,陕西经济广播·896汽车调频
+http://156.238.248.80/2099.php?id=1771
+#EXTINF:-1 ,陕西都市广播·陕广新闻
+http://156.238.248.80/2099.php?id=1772
+#EXTINF:-1 ,陕西农村广播
+http://156.238.248.80/2099.php?id=1773
+#EXTINF:-1 ,陕西戏曲广播
+http://156.238.248.80/2099.php?id=1774
+#EXTINF:-1 ,陕西新闻广播
+http://156.238.248.80/2099.php?id=1775
+#EXTINF:-1 ,浙江之声
+http://156.238.248.80/2099.php?id=1776
+#EXTINF:-1 ,浙江经济广播
+http://156.238.248.80/2099.php?id=1777
+#EXTINF:-1 ,浙江交通之声
+http://156.238.248.80/2099.php?id=1778
+#EXTINF:-1 ,浙江民生资讯广播
+http://156.238.248.80/2099.php?id=1779
+#EXTINF:-1 ,浙江城市之声
+http://156.238.248.80/2099.php?id=1780
+#EXTINF:-1 ,浙江旅游之声
+http://156.238.248.80/2099.php?id=1781
+#EXTINF:-1 ,重庆都市广播·私家车938
+http://156.238.248.80/2099.php?id=1782
+#EXTINF:-1 ,广东新闻广播
+http://156.238.248.80/2099.php?id=1783
+#EXTINF:-1 ,广东股市广播
+http://156.238.248.80/2099.php?id=1784
+#EXTINF:-1 ,广东文体广播
+http://156.238.248.80/2099.php?id=1785
+#EXTINF:-1 ,广东城市之声
+http://156.238.248.80/2099.php?id=1786
+#EXTINF:-1 ,广东南粤之声
+http://156.238.248.80/2099.php?id=1787
+#EXTINF:-1 ,珠江经济台
+http://156.238.248.80/2099.php?id=1788
+#EXTINF:-1 ,南方生活广播
+http://156.238.248.80/2099.php?id=1789
+#EXTINF:-1 ,羊城交通广播
+http://156.238.248.80/2099.php?id=1790
+#EXTINF:-1 ,深圳交通广播
+http://156.238.248.80/2099.php?id=1791
+#EXTINF:-1 ,海南新闻广播
+http://156.238.248.80/2099.php?id=1792
+#EXTINF:-1 ,海南交通广播
+http://156.238.248.80/2099.php?id=1793
+#EXTINF:-1 ,四川经济广播
+http://156.238.248.80/2099.php?id=1794
+#EXTINF:-1 ,四川文艺广播
+http://156.238.248.80/2099.php?id=1795
+#EXTINF:-1 ,四川交通广播
+http://156.238.248.80/2099.php?id=1796
+#EXTINF:-1 ,四川综合广播四川之声
+http://156.238.248.80/2099.php?id=1797
+#EXTINF:-1 ,四川私家车广播
+http://156.238.248.80/2099.php?id=1798
+#EXTINF:-1 ,贵州经济广播
+http://156.238.248.80/2099.php?id=1799
+#EXTINF:-1 ,贵州旅游广播
+http://156.238.248.80/2099.php?id=1800
+#EXTINF:-1 ,贵州故事广播
+http://156.238.248.80/2099.php?id=1801
+#EXTINF:-1 ,贵州综合广播
+http://156.238.248.80/2099.php?id=1802
+#EXTINF:-1 ,河南新闻广播
+http://156.238.248.80/2099.php?id=1803
+#EXTINF:-1 ,河南经济广播
+http://156.238.248.80/2099.php?id=1804
+#EXTINF:-1 ,河南戏曲广播
+http://156.238.248.80/2099.php?id=1805
+#EXTINF:-1 ,河南教育广播
+http://156.238.248.80/2099.php?id=1806
+#EXTINF:-1 ,河南信息广播
+http://156.238.248.80/2099.php?id=1807
+#EXTINF:-1 ,吉林新闻综合广播
+http://156.238.248.80/2099.php?id=1808
+#EXTINF:-1 ,吉林交通广播
+http://156.238.248.80/2099.php?id=1809
+#EXTINF:-1 ,吉林乡村广播
+http://156.238.248.80/2099.php?id=1810
+#EXTINF:-1 ,延边新闻广播
+http://156.238.248.80/2099.php?id=1811
+#EXTINF:-1 ,辽宁之声
+http://156.238.248.80/2099.php?id=1812
+#EXTINF:-1 ,辽宁乡村广播
+http://156.238.248.80/2099.php?id=1813
+#EXTINF:-1 ,辽宁经济广播
+http://156.238.248.80/2099.php?id=1814
+#EXTINF:-1 ,辽宁交通广播
+http://156.238.248.80/2099.php?id=1815
+#EXTINF:-1 ,黑龙江新闻广播
+http://156.238.248.80/2099.php?id=1816
+#EXTINF:-1 ,黑龙江交通广播
+http://156.238.248.80/2099.php?id=1817
+#EXTINF:-1 ,黑龙江都市女性广播
+http://156.238.248.80/2099.php?id=1818
+#EXTINF:-1 ,黑龙江高校广播
+http://156.238.248.80/2099.php?id=1819
+#EXTINF:-1 ,黑龙江老年少儿广播·爱家调频
+http://156.238.248.80/2099.php?id=1820
+#EXTINF:-1 ,黑龙江乡村广播
+http://156.238.248.80/2099.php?id=1821
+#EXTINF:-1 ,黑龙江朝鲜语广播
+http://156.238.248.80/2099.php?id=1822
+#EXTINF:-1 ,内蒙古农村牧区广播绿野之声
+http://156.238.248.80/2099.php?id=1823
+#EXTINF:-1 ,内蒙古新闻广播
+http://156.238.248.80/2099.php?id=1824
+#EXTINF:-1 ,内蒙古经济生活广播
+http://156.238.248.80/2099.php?id=1825
+#EXTINF:-1 ,内蒙古评书曲艺广播
+http://156.238.248.80/2099.php?id=1826
+#EXTINF:-1 ,内蒙古蒙语对外广播草原之声
+http://156.238.248.80/2099.php?id=1827
+#EXTINF:-1 ,内蒙古蒙语新闻综合广播
+http://156.238.248.80/2099.php?id=1828
+#EXTINF:-1 ,锡林郭勒汉语广播
+http://156.238.248.80/2099.php?id=1829
+#EXTINF:-1 ,锡林郭勒蒙语广播
+http://156.238.248.80/2099.php?id=1830
+#EXTINF:-1 ,阿拉善汉语广播
+http://156.238.248.80/2099.php?id=1831
+#EXTINF:-1 ,阿拉善蒙语广播
+http://156.238.248.80/2099.php?id=1832
+#EXTINF:-1 ,呼伦贝尔汉语广播
+http://156.238.248.80/2099.php?id=1833
+#EXTINF:-1 ,呼伦贝尔蒙语广播
+http://156.238.248.80/2099.php?id=1834
+#EXTINF:-1 ,新疆新闻广播
+http://156.238.248.80/2099.php?id=1835
+#EXTINF:-1 ,新疆交通广播
+http://156.238.248.80/2099.php?id=1836
+#EXTINF:-1 ,新疆私家车广播
+http://156.238.248.80/2099.php?id=1837
+#EXTINF:-1 ,新疆绿色广播
+http://156.238.248.80/2099.php?id=1838
+#EXTINF:-1 ,西藏都市生活广播
+http://156.238.248.80/2099.php?id=1839
+#EXTINF:-1 ,西藏对外交通广播
+http://156.238.248.80/2099.php?id=1840
+#EXTINF:-1 ,西藏汉语广播
+http://156.238.248.80/2099.php?id=1841
+#EXTINF:-1 ,西藏藏语广播
+http://156.238.248.80/2099.php?id=1842
+#EXTINF:-1 ,广西教育广播
+http://156.238.248.80/2099.php?id=1843
+#EXTINF:-1 ,广西综合广播
+http://156.238.248.80/2099.php?id=1844
+#EXTINF:-1 ,广西北部湾之声
+http://156.238.248.80/2099.php?id=1845
+#EXTINF:-1 ,广西交通广播
+http://156.238.248.80/2099.php?id=1846
+#EXTINF:-1 ,云南新闻广播
+http://156.238.248.80/2099.php?id=1847
+#EXTINF:-1 ,云南经济广播·私家车电台
+http://156.238.248.80/2099.php?id=1848
+#EXTINF:-1 ,云南交通之声
+http://156.238.248.80/2099.php?id=1849
+#EXTINF:-1 ,云南旅游广播·香格里拉之声
+http://156.238.248.80/2099.php?id=1850
+#EXTINF:-1 ,云南民族广播
+http://156.238.248.80/2099.php?id=1851
+#EXTINF:-1 ,云南国际广播
+http://156.238.248.80/2099.php?id=1852
+#EXTINF:-1 ,云南教育广播·知道分子
+http://156.238.248.80/2099.php?id=1853
+#EXTINF:-1 ,宁夏经济广播
+http://156.238.248.80/2099.php?id=1854
+#EXTINF:-1 ,宁夏旅游广播
+http://156.238.248.80/2099.php?id=1855
+#EXTINF:-1 ,青海新闻综合广播
+http://156.238.248.80/2099.php?id=1856
+#EXTINF:-1 ,青海经济广播
+http://156.238.248.80/2099.php?id=1857
+#EXTINF:-1 ,安徽音乐广播
+http://156.238.248.80/2099.php?id=1858
+#EXTINF:-1 ,陕西青少广播·好听1055
+http://156.238.248.80/2099.php?id=1859
+#EXTINF:-1 ,山东经典音乐广播
+http://156.238.248.80/2099.php?id=1860
+#EXTINF:-1 ,湖南文艺广播·摩登音乐台
+http://156.238.248.80/2099.php?id=1861
+#EXTINF:-1 ,CRI HIT FM
+http://156.238.248.80/2099.php?id=1862
+#EXTINF:-1 ,CRI HIT FM
+http://156.238.248.80/2099.php?id=1863
+#EXTINF:-1 ,江西音乐广播
+http://156.238.248.80/2099.php?id=1864
+#EXTINF:-1 ,内蒙古音乐之声
+http://156.238.248.80/2099.php?id=1865
+#EXTINF:-1 ,湖北经典音乐广播
+http://156.238.248.80/2099.php?id=1866
+#EXTINF:-1 ,广西音乐广播
+http://156.238.248.80/2099.php?id=1867
+#EXTINF:-1 ,广西经济广播·女主播电台
+http://156.238.248.80/2099.php?id=1868
+#EXTINF:-1 ,云南音乐广播
+http://156.238.248.80/2099.php?id=1869
+#EXTINF:-1 ,四川城市之音
+http://156.238.248.80/2099.php?id=1870
+#EXTINF:-1 ,四川岷江音乐
+http://156.238.248.80/2099.php?id=1871
+#EXTINF:-1 ,楚天音乐广播
+http://156.238.248.80/2099.php?id=1872
+#EXTINF:-1 ,江苏音乐广播
+http://156.238.248.80/2099.php?id=1873
+#EXTINF:-1 ,江苏经典流行音乐广播
+http://156.238.248.80/2099.php?id=1874
+#EXTINF:-1 ,浙江音乐调频·动听968
+http://156.238.248.80/2099.php?id=1875
+#EXTINF:-1 ,河北音乐广播
+http://156.238.248.80/2099.php?id=1876
+#EXTINF:-1 ,海南音乐广播
+http://156.238.248.80/2099.php?id=1877
+#EXTINF:-1 ,贵州音乐广播
+http://156.238.248.80/2099.php?id=1878
+#EXTINF:-1 ,宁夏音乐广播
+http://156.238.248.80/2099.php?id=1879
+#EXTINF:-1 ,黑龙江音乐广播
+http://156.238.248.80/2099.php?id=1880
+#EXTINF:-1 ,福建汽车音乐广播
+http://156.238.248.80/2099.php?id=1881
+#EXTINF:-1 ,青海交通音乐广播
+http://156.238.248.80/2099.php?id=1882
+#EXTINF:-1 ,====== 公告,#genre# ======
+http://22/22.m3u8
+#EXTINF:-1 ,告示
+http://156.238.248.80/2099.php?id=1883
+#EXTINF:-1 ,CCTV13
+http://156.238.248.80/2099.php?id=1884
